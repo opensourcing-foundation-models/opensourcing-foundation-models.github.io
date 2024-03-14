@@ -6,19 +6,17 @@ title: <h3  align="center">GAIL Workshop on Efficient Generative AI 2024</h3>
 nav_order: 1
 ---
 
-<!--<html lang="en">
-<div class="news-box">
-  <h4>Announcements</h4>
-  <br>
-  <p>1. <b>Recordings</b> are available on the <a href="https://neurips.cc/virtual/2023/workshop/66498" target="_blank">NeurIPS website</a> (NeurIPS registration required). They will be made public after one month (Jan 2024).<br>
-  2. <b>Talk slides</b> are posted on the <a href="/speakers">speakers page</a>.<br>
-  3. Congratuations to <a href="#paper-awards">paper award winners</a>!<br>
-  4. <b>Workshop highlights and photos</b> can be found on our <a href="https://twitter.com/itif_workshop">Twitter</a>.
-  <br><br>
-  Thank you for joining us at NeurIPS 2023! Hope to see you next time! 
-  </p>
-</div>
-</html>-->
+<!-- <html lang="en"> -->
+<!-- <div class="news-box"> -->
+<!--   <h4>Announcements</h4> -->
+<!--   <br> -->
+<!--   <p>1. <b>Recordings</b> are available on the <a href="https://neurips.cc/virtual/2023/workshop/66498" target="_blank">NeurIPS website</a> (NeurIPS registration required). They will be made public after one month (Jan 2024).<br> -->
+<!--   2. <b>Talk slides</b> are posted on the <a href="/speakers">speakers page</a>.<br> -->
+<!--   <br><br> -->
+<!--   Thank you for joining us at NeurIPS 2023! Hope to see you next time!  -->
+<!--   </p> -->
+<!-- </div> -->
+<!-- </html> -->
 
 
 <br>
@@ -213,6 +211,19 @@ We anticipate participants to include faculty members and students from Edinburg
         <div class="team-member">
             <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 5">
             <p><a href="https://franxyao.github.io/">Yao Fu</a>
+            <br>University of Edinburgh</p>
+        </div>
+    </div>
+</html>
+
+    
+**Web Chair**
+
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/organizers/yeqi-huang.jpg" alt="Name 6">
+            <p><a href="https://yeqi-huang.com">Yeqi Huang</a>
             <br>University of Edinburgh</p>
         </div>
     </div>
