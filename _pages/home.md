@@ -66,7 +66,7 @@ Encouraging dialogues on the crossroads of efficiency in LLMs and sectors like e
 
 The workshop will include keynote speeches, panel discussions, faculty/student/industry talks, and interactive sessions, including hands-on poster and demo sessions. These demos allow attendees to experience the work directly, fostering a deeper understanding and promoting new idea generation. The event will facilitate networking opportunities, fostering collaborations among participants.
 
-We anticipate participants to include faculty members and students from Edinburgh and other leading universities, engineers and researchers from leading hardware providers (such as EPCC, Graphcore, Cerebras, NVIDIA, ARM), software providers (such as DeepMind, Meta, and Mi-crosoft), and application owners (such as those in financial, public and health sectors).
+We anticipate participants to include faculty members and students from Edinburgh and other leading universities, engineers and researchers from leading hardware providers, software providers, and application owners (such as those in financial, public and health sectors).
 
 
 <br>
@@ -203,7 +203,7 @@ We anticipate participants to include faculty members and students from Edinburg
         <div class="team-member">
             <img src="/assets/img/organizers/pasquale_minervini.jpg" alt="Name 3">
             <p><a href="http://www.neuralnoise.com/">Pasquale Minervini</a>
-            <br>University of Washington</p>
+            <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 4">
