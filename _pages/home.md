@@ -191,13 +191,13 @@ We anticipate participants to include faculty members and students from Edinburg
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 1">
-            <p><a href="https://antreas.io/home/">Antreas Antoniou</a>
+            <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 1">
+            <p><a href="https://luomai.github.io/">Luo Mai</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 2">
-            <p><a href="https://luomai.github.io/">Luo Mai</a>
+            <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 2">
+            <p><a href="https://ducdauge.github.io/">Edoardo Ponti</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
@@ -206,8 +206,13 @@ We anticipate participants to include faculty members and students from Edinburg
             <br>University of Washington</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 4">
-            <p><a href="https://ducdauge.github.io/">Edoardo Ponti</a>
+            <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 4">
+            <p><a href="https://antreas.io/home/">Antreas Antoniou</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 5">
+            <p><a href="https://franxyao.github.io/">Yao Fu</a>
             <br>University of Edinburgh</p>
         </div>
     </div>
