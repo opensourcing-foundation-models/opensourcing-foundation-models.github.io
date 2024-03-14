@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">Workshop on Instruction Tuning and Instruction Following</h3>
+title: <h3  align="center">GAIL Workshop on Efficient Generative AI 2024</h3>
 nav_order: 1
 ---
 
@@ -23,42 +23,53 @@ nav_order: 1
 
 <br>
 
-This workshop is designed to unite leading re-
-searchers and practitioners working on large gen-erative AI models, including Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The focus is on promoting collabora-tion and exchanging insights in enhancing the ef-ficiency of training and deploying generative AI, leading to innovation across the full stack of a gen-erative AI system, including models, algorithms, software and hardware.
+This workshop is designed to unite leading researchers and practitioners working on large generative AI models, including Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The focus is on promoting collaboration and exchanging insights in enhancing the efficiency of training and deploying generative AI, leading to innovation across the full stack of a generative AI system, including models, algorithms, software and hardware.
 
 <br>
 
 ## Topics
 
+
 The workshop covers the following topics:
 
-### Efficient model architectures
+#### Efficient model architectures
 
 Exploring innovations in language and multi-modal models, such as nanoT5, retrieval-based LLMs, and multi-modal integration, such as LLaVA and GPT4V.
 
-### Training and fine-tuning methods
+#### Training and fine-tuning methods
 
 Delving into efficient strategies for LLM/LMM train-ing, including parameter-efficient fine-tuning and resource-efficient distributed training approaches.
 
-### Inference methods
+#### Inference methods
 
 Addressing efficient infer-ence methodologies like speculative decoding, compression and quantisation. 
 
-### Dataset management and retrieval-based
+#### Dataset management and retrieval-based
 
 Addressing the efficiency issues of managing datasets for LLMs and LMMs and the efficiency of performing intelligent, large-scale retrieval.
 
-### Efficient system software
+#### Efficient system software
 
 Evaluating software solutions like FlashAttention, PageAttention, DeepSpeed, Megatron-LM, and AI compilers that are pivotal in training and deploying LLMs.
 
-### New hardware adoption
+#### New hardware adoption
 
 Addressing the deploy-ment of LLMs on upcoming hardware platforms such as NVIDIA Graph-Hopper, GraphCore IPU, and Cerebras CS-2 systems.
 
-### Interdisciplinary efficiency perspectives
+#### Interdisciplinary efficiency perspectives
 
 Encouraging dialogues on the crossroads of efficiency in LLMs and sectors like energy, environment, and social studies, highlighting mutual chal-lenges and solutions.
+
+<br>
+
+## Format and Participation
+
+The workshop will include keynote speeches, panel discussions, faculty/student/industry talks, and interactive sessions, including hands-on poster and demo sessions. These demos allow attendees to experience the work directly, fostering a deeper understanding and promoting new idea generation. The event will facilitate networking opportunities, fostering collaborations among participants.
+
+We anticipate participants to include faculty members and students from Edinburgh and other leading universities, engineers and researchers from leading hardware providers (such as EPCC, Graphcore, Cerebras, NVIDIA, ARM), software providers (such as DeepMind, Meta, and Mi-crosoft), and application owners (such as those in financial, public and health sectors).
+
+
+<br>
 
 <!--<html>
     <div class="team-container">
@@ -180,29 +191,24 @@ Encouraging dialogues on the crossroads of efficiency in LLMs and sectors like e
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/qinyuan_ye.jpg" alt="Name 1">
-            <a href="http://yeqy.xyz/">Qinyuan Ye</a>
-            <p>University of Southern California</p>
+            <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 1">
+            <a href="https://antreas.io/home/">Antreas Antoniou</a>
+            <p>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yizhong_wang.jpg" alt="Name 2">
-            <p><a href="https://homes.cs.washington.edu/~yizhongw/">Yizhong Wang</a>
-            <br>University of Washington</p>
+            <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 2">
+            <a href="https://luomai.github.io/">Luo Mai</a>
+            <p>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/shayne_longpre.jpg" alt="Name 3">
-            <p><a href="https://www.shaynelongpre.com/">Shayne Longpre</a>
-            <br>Massachusetts Institute of Technology</p>
+            <img src="/assets/img/organizers/pasquale_minervini.jpg" alt="Name 3">
+            <a href="http://www.neuralnoise.com/">Pasquale Minervini</a>
+            <p>University of Washington</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 4">
-            <p><a href="https://franxyao.github.io/">Yao Fu</a>
-            <br>University of Edinburgh</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/daniel_khashabi.jpeg" alt="Name 5">
-            <p><a href="https://danielkhashabi.com/">Daniel Khashabi</a>
-            <br>Johns Hopkins University</p>
+            <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 4">
+            <a href="https://ducdauge.github.io/">Edoardo Ponti</a>
+            <p>University of Edinburgh</p>
         </div>
     </div>
 </html>
@@ -245,7 +251,7 @@ Encouraging dialogues on the crossroads of efficiency in LLMs and sectors like e
 <!--             <img src="/assets/img/sponsors/apple.png" alt="Apple" max-width=300px> -->
 <!--             <p class="caption"><a href="https://www.apple.com/">Apple</a></p> -->
 <!--         </div> -->
-<!--         <!-- <div class="right-half"></div> Empty right-half --> -->
+<!--         <!-- <div class="right-half"></div> Empty right-half --> 
 <!---->
 <!--     </div> -->
 <!-- </html> -->
@@ -254,7 +260,7 @@ Encouraging dialogues on the crossroads of efficiency in LLMs and sectors like e
     /* Style for the team container */
 .team-container {
     display: grid;
-    grid-template-columns: repeat(5, 1fr); /* Display 3 members per row */
+    grid-template-columns: repeat(4, 1fr); /* Display 3 members per row */
     gap: 5px;
     max-width: 1000px;
     padding: 20px;

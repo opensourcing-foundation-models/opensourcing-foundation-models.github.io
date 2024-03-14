@@ -4,7 +4,7 @@ title: More
 nav: true
 nav_order: 100
 dropdown: true
-children:
-    - title: Call for Papers
-      permalink: /call/
+> children:
+>     - title: Call for Papers
+>       permalink: /call/
 ---
