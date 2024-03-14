@@ -192,23 +192,23 @@ We anticipate participants to include faculty members and students from Edinburg
     <div class="team-container">
         <div class="team-member">
             <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 1">
-            <a href="https://antreas.io/home/">Antreas Antoniou</a>
-            <p>University of Edinburgh</p>
+            <p><a href="https://antreas.io/home/">Antreas Antoniou</a>
+            <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 2">
-            <a href="https://luomai.github.io/">Luo Mai</a>
-            <p>University of Edinburgh</p>
+            <p><a href="https://luomai.github.io/">Luo Mai</a>
+            <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/pasquale_minervini.jpg" alt="Name 3">
-            <a href="http://www.neuralnoise.com/">Pasquale Minervini</a>
-            <p>University of Washington</p>
+            <p><a href="http://www.neuralnoise.com/">Pasquale Minervini</a>
+            <br>University of Washington</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 4">
-            <a href="https://ducdauge.github.io/">Edoardo Ponti</a>
-            <p>University of Edinburgh</p>
+            <p><a href="https://ducdauge.github.io/">Edoardo Ponti</a>
+            <br>University of Edinburgh</p>
         </div>
     </div>
 </html>
