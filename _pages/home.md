@@ -265,7 +265,7 @@ We anticipate participants to include faculty members and students from Edinburg
     /* Style for the team container */
 .team-container {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Display 3 members per row */
+    grid-template-columns: repeat(5, 1fr); /* Display 3 members per row */
     gap: 5px;
     max-width: 1000px;
     padding: 20px;
