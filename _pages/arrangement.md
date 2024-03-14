@@ -1,11 +1,15 @@
 ---
 layout: page
-permalink: /organization/
-title: Organization
+permalink: /local-arrangement/
+title: Local Arrangement
 description:
 nav: true
 nav_order: 4
 ---
+
+<br>
+
+# Local Arrangement
 
 TBD
 
