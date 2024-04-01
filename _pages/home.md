@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">GAIL Workshop on Efficient Generative AI 2024</h3>
+title: <h3  align="center">International Workshop on Efficient Generative AI 2024</h3>
 nav_order: 1
 ---
 
@@ -42,7 +42,7 @@ Delving into efficient strategies for LLM/LMM train-ing, including parameter-eff
 
 Addressing efficient infer-ence methodologies like speculative decoding, compression and quantisation. 
 
-#### Dataset management and retrieval-based
+#### Dataset management and retrieval-based methods
 
 Addressing the efficiency issues of managing datasets for LLMs and LMMs and the efficiency of performing intelligent, large-scale retrieval.
 
