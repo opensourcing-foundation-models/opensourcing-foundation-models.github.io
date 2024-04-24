@@ -213,6 +213,11 @@ We anticipate participants to include faculty members and students from Edinburg
             <p><a href="https://franxyao.github.io/">Yao Fu</a>
             <br>University of Edinburgh</p>
         </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 6">
+            <p><a href="https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a>
+            <br>University of Edinburgh</p>
+        </div>
     </div>
 </html>
 
@@ -276,7 +281,7 @@ We anticipate participants to include faculty members and students from Edinburg
     /* Style for the team container */
 .team-container {
     display: grid;
-    grid-template-columns: repeat(5, 1fr); /* Display 3 members per row */
+    grid-template-columns: repeat(3, 1fr); /* Display 3 members per row */
     gap: 5px;
     max-width: 1000px;
     padding: 20px;

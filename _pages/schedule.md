@@ -36,5 +36,22 @@ nav_order: 5
 <!-- | | 7. Delve into PPO: Implementation Matters for Stable RLHF | -->
 <!-- | | 8. FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets | -->
 <!-- | 17:20-17:30 | Closing Remarks | -->
+## Day 1 (Fri, 24th May, 10am – 4pm):
 
-TBD
+- Welcome session: coffee & bakery
+- Session 1 (1 hour): GenAI model architectures and inference methods
+- PhD audience lighting pitch session (45 minutes)
+- Lunch
+- Session 2 (1 hour): AI accelerators – software & hardware
+- Session 3 (1 hour): RAG systems and long-context
+- Networking session (30 minutes and beyond) – light drinks and food to be provided
+
+## Day 2 (Sat, 25th May, 10am – 4pm):
+
+- Keynote (1 hour): TBC
+- Session 4 (1 hour): GenAI training & fine-tuning
+- Lunch
+- Panel discussion (1 hour): What is next for efficient GenAI?
+- Session 5 (1 hour): Mixed topics – inter-disciplinary, cloud-native GenAI services
+- Networking session (30 minutes and beyond) – light drinks and food to be provided
+ 
