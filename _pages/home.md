@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">International Workshop on Efficient Generative AI 2024</h3>
+title: <h3  align="center">International Workshop on Efficient Generative AI</h3>
 nav_order: 1
 ---
 
@@ -21,51 +21,46 @@ nav_order: 1
 
 <br>
 
-This workshop is designed to unite leading researchers and practitioners working on large generative AI models, including Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The focus is on promoting collaboration and exchanging insights in enhancing the efficiency of training and deploying generative AI, leading to innovation across the full stack of a generative AI system, including models, algorithms, software and hardware.
+This workshop aims to bring together researchers and practitioners in the field of generative AI, focusing on Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The objective is to foster collaboration and share insights to improve the training and deployment efficiency of these models. This initiative is expected to drive innovation across the entire system stack, encompassing models, algorithms, software, and hardware.
+
+We are pleased to announce that we have confirmed invited speakers from prestigious institutions and companies such as the University of Edinburgh, UC Berkeley, Imperial College London, the University of Cambridge, MIT, MILA, GraphCore, Cohere AI, Tenstorrent, Amazon AI Lab, Malted AI, and EPCC (UK Supercomputing Centre). Additional confirmations from invited speakers are anticipated in the coming weeks.
+
+We extend this invitation to researchers and students from UK organizations and universities. If you are interested in participating, please let us know. Limited travel grants may be available to support PhD students attending the workshop.
 
 <br>
 
 ## Topics
 
-
 The workshop covers the following topics:
 
-#### Efficient model architectures
+#### Efficient Model Architectures
+Exploring innovations in language and multi-modal models, such as nanoT5, retrieval-based LLMs, and multi-modal integration techniques exemplified by LLaVA and GPT4V.
 
-Exploring innovations in language and multi-modal models, such as nanoT5, retrieval-based LLMs, and multi-modal integration, such as LLaVA and GPT4V.
+#### Training and Fine-tuning Methods
+Delving into efficient strategies for LLM/LMM training, including parameter-efficient fine-tuning and resource-efficient distributed training approaches.
 
-#### Training and fine-tuning methods
+#### Inference Methods
+Addressing efficient inference methodologies, such as speculative decoding, along with compression and quantization techniques.
 
-Delving into efficient strategies for LLM/LMM train-ing, including parameter-efficient fine-tuning and resource-efficient distributed training approaches.
+#### Dataset Management and Retrieval-Based Methods
+Focusing on the challenges of efficiently managing datasets for LLMs and LMMs and enhancing the effectiveness of large-scale, intelligent retrieval.
 
-#### Inference methods
+#### Efficient System Software
+Evaluating software solutions pivotal in training and deploying LLMs, including vLLM, PageAttention, DeepSpeed, Megatron-LM, and AI compilers.
 
-Addressing efficient infer-ence methodologies like speculative decoding, compression and quantisation. 
+#### New Hardware Adoption
+Discussing the deployment of LLMs on emerging hardware platforms such as NVIDIA Graph-Hopper, GraphCore IPU, Cerebras Systems, and Tenstorrent Chips.
 
-#### Dataset management and retrieval-based methods
+#### Interdisciplinary Efficiency Perspectives
 
-Addressing the efficiency issues of managing datasets for LLMs and LMMs and the efficiency of performing intelligent, large-scale retrieval.
+Encouraging dialogues at the intersection of LLM efficiency and sectors such as energy, environment, and social studies, highlighting shared challenges and solutions.
 
-#### Efficient system software
-
-Evaluating software solutions like FlashAttention, PageAttention, DeepSpeed, Megatron-LM, and AI compilers that are pivotal in training and deploying LLMs.
-
-#### New hardware adoption
-
-Addressing the deploy-ment of LLMs on upcoming hardware platforms such as NVIDIA Graph-Hopper, GraphCore IPU, and Cerebras CS-2 systems.
-
-#### Interdisciplinary efficiency perspectives
-
-Encouraging dialogues on the crossroads of efficiency in LLMs and sectors like energy, environment, and social studies, highlighting mutual chal-lenges and solutions.
 
 <br>
 
 ## Format and Participation
 
-The workshop will include keynote speeches, panel discussions, faculty/student/industry talks, and interactive sessions, including hands-on poster and demo sessions. These demos allow attendees to experience the work directly, fostering a deeper understanding and promoting new idea generation. The event will facilitate networking opportunities, fostering collaborations among participants.
-
-We anticipate participants to include faculty members and students from Edinburgh and other leading universities, engineers and researchers from leading hardware providers, software providers, and application owners (such as those in financial, public and health sectors).
-
+The workshop will include keynote speeches, panel discussions, invited talks, and networking sessions. 
 
 <br>
 
