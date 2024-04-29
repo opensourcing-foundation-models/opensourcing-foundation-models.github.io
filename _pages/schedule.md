@@ -36,6 +36,7 @@ nav_order: 5
 <!-- | | 7. Delve into PPO: Implementation Matters for Stable RLHF | -->
 <!-- | | 8. FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets | -->
 <!-- | 17:20-17:30 | Closing Remarks | -->
+
 ## Day 1 (24 May 2024, 10am – 4pm):
 
 - Welcome session: coffee & bakery
