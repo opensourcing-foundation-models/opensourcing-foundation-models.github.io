@@ -23,7 +23,7 @@ nav_order: 1
 
 This workshop aims to bring together researchers and practitioners in the field of generative AI, focusing on Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The objective is to foster collaboration and share insights to improve the training and deployment efficiency of these models. This initiative is expected to drive innovation across the entire system stack, encompassing models, algorithms, software, and hardware.
 
-We are pleased to announce that we have confirmed invited speakers from prestigious institutions and companies such as the University of Edinburgh, UC Berkeley, Imperial College London, the University of Cambridge, MIT, MILA, GraphCore, Cohere AI, Tenstorrent, Amazon AI Lab, Malted AI, and EPCC (UK Supercomputing Centre). Additional confirmations from invited speakers are anticipated in the coming weeks.
+We are pleased to announce that we have confirmed invited speakers from University of Edinburgh, UC Berkeley, MIT, Imperial College London, University of Cambridge, Mila - Quebec AI Institute, GraphCore, Cohere AI, Tenstorrent, Amazon AI Lab, Malted AI, and EPCC (UK Supercomputing Centre). Additional confirmations from invited speakers are anticipated in the coming weeks.
 
 We extend this invitation to researchers and students from UK organizations and universities. If you are interested in participating, please let us know. Limited travel grants may be available to support PhD students attending the workshop.
 
