@@ -212,7 +212,7 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/xuan-sun.jpg" alt="Name 6">
+            <img src="/assets/img/organizers/xuan-sun.png" alt="Name 6">
             <p><a href="https://scholar.google.com/citations?user=KbEYCoUAAAAJ&hl=en">Xuan Sun</a>
             <br>University of Edinburgh</p>
         </div>
