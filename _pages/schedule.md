@@ -6,69 +6,44 @@ nav: true
 nav_order: 5
 ---
 # Schedule
+
 <br>
 
-<!-- | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;| -->
-<!-- |-------------|:-------------| -->
-<!-- |__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|| -->
-<!-- | 8:40-9:00 | Opening Remarks | -->
-<!-- | 9:00-9:30 | Invited Talk 1 - Tatsunori Hashimoto | -->
-<!-- | 9:30-10:00 | Invited Talk 2 - Nazneen Rajani | -->
-<!-- | 10:00-10:15 | Break | -->
-<!-- | 10:15-10:45 | Invited Talk 3 – Fei Xia | -->
-<!-- | 10:45-11:30 | Panel 1: Key Techniques, Insights, and Challenges in Building Instruction-following Models -->
-<!-- |  | Panelists: Alex Tamkin, Albert Webson, Fei Xia, Prithviraj (Raj) Ammanabrolu, Hyung Won Chung | -->
-<!-- |-------------|:-------------| -->
-<!-- |__PM__|| -->
-<!-- | 13:00-14:00 | Poster Session | -->
-<!-- | 14:00-14:30 | Invited Talk 4 - Sara Hooker | -->
-<!-- | 14:30-15:00 | Invited Talk 5 - Alex Tamkin | -->
-<!-- | 15:00-15:15 | Break  | -->
-<!-- | 15:15-16:00  | Panel 2: Open and Collaborative Strategies for the Large Language Model Adaptation| -->
-<!-- |  | Panelists: Nazneen Rajani, Colin Raffel, Hao Zhang, Tatsunori Hashimoto | -->
-<!-- | 16:00-17:20 | Oral Presentations (10 min each) | -->
-<!-- | | 1. Understanding Hidden Context in Preference Learning: Consequences for RLHF | -->
-<!-- | | 2. Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game | -->
-<!-- | | 3. Understanding the Effects of RLHF on LLM Generalisation and Diversity | -->
-<!-- | | 4. Learning Interactive Real-World Simulators | -->
-<!-- | | 5. Interactive Planning Using Large Language Models for Partially Observable Robotics Tasks | -->
-<!-- | | 6. Self-RAG: Self-reflective Retrieval Augmented Generation | -->
-<!-- | | 7. Delve into PPO: Implementation Matters for Stable RLHF | -->
-<!-- | | 8. FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets | -->
-<!-- | 17:20-17:30 | Closing Remarks | -->
+## Day 1 (9:30am – 6:00pm)
 
-## Day 1 (24 May 2024):
+| Time        | Event                                      |
+|-------------|--------------------------------------------|
+| 9:30-10:00  | Welcome session: coffee & bakery           |
+| 10:00-10:10 | Welcome & logistic - Luo / Edoardo, Edinburgh |
+| 10:10-10:20 | GAIL Introduction - Mirella, Edinburgh     |
+| 10:20-11:50 | Session: Software & Hardware for Efficient GenAI |
+|             | Talk 1 (45 minutes): Woosuk Kwon, UC Berkely |
+|             | Talk 2 (45 minutes): Tenstorrent            |
+| 11:50-12:00 | Break                                      |
+| 12:00-12:30 | PhD Lightening Talks (Session 1)            |
+| 12:30-2:00  | Lunch (Buffet)                             |
+| 2:00-3:50   | Session: Benchmark, Cloud and Compilers for Efficient GenAI |
+|             | Talk 1 (40 minutes): Minjie Wang, Amazon AI Lab |
+|             | Talk 2 (30 minutes): Peter Pietzuch, Imperial College |
+|             | Talk 3 (40 minutes): Willow Ahrens, MIT     |
+| 3:50-4:00   | Break                                      |
+| 4:00-5:00   | Panel Discussion: Next Software & Hardware for Efficient GenAI |
+| 5:00-6:00   | Networking session & Poster sessions – light drinks and food to be provided |
 
-<!-- | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;| -->
-<!-- |-------------|:-------------| -->
-<!-- |__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|| -->
-<!-- | 8:40-9:00 | Opening Remarks | -->
-<!-- | 9:00-9:30 | Invited Talk 1 - Tatsunori Hashimoto | -->
-<!-- | 9:30-10:00 | Invited Talk 2 - Nazneen Rajani | -->
-<!-- | 10:00-10:15 | Break | -->
-<!-- | 10:15-10:45 | Invited Talk 3 – Fei Xia | -->
-<!-- | 10:45-11:30 | Panel 1: Key Techniques, Insights, and Challenges in Building Instruction-following Models -->
-<!-- |  | Panelists: Alex Tamkin, Albert Webson, Fei Xia, Prithviraj (Raj) Ammanabrolu, Hyung Won Chung | -->
-<!-- |-------------|:-------------| -->
-<!-- |__PM__|| -->
-<!-- | 13:00-14:00 | Poster Session | -->
-<!-- | 14:00-14:30 | Invited Talk 4 - Sara Hooker | -->
-<!-- | 14:30-15:00 | Invited Talk 5 - Alex Tamkin | -->
-<!-- | 15:00-15:15 | Break  | -->
-<!-- | 15:15-16:00  | Panel 2: Open and Collaborative Strategies for the Large Language Model Adaptation| -->
-<!-- |  | Panelists: Nazneen Rajani, Colin Raffel, Hao Zhang, Tatsunori Hashimoto | -->
-<!-- | 16:00-17:20 | Oral Presentations (10 min each) | -->
-<!-- | | 1. Understanding Hidden Context in Preference Learning: Consequences for RLHF | -->
-<!-- | | 2. Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game | -->
-<!-- | | 3. Understanding the Effects of RLHF on LLM Generalisation and Diversity | -->
-<!-- | | 4. Learning Interactive Real-World Simulators | -->
-<!-- | | 5. Interactive Planning Using Large Language Models for Partially Observable Robotics Tasks | -->
-<!-- | | 6. Self-RAG: Self-reflective Retrieval Augmented Generation | -->
-<!-- | | 7. Delve into PPO: Implementation Matters for Stable RLHF | -->
-<!-- | | 8. FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets | -->
-<!-- | 17:20-17:30 | Closing Remarks | -->
+## Day 2 (9:30am – 6:00pm)
 
-## Day 2 (25 May 2024):
-
-TBD
- 
+| 9:30-10:00  | Welcome session: coffee & bakery           |
+| 10:00-11:00 | Keynote (Andrew Fitzgibbon, GraphCore)     |
+| 11:00-11:10 | Break                                      |
+| 11:10-12:10 | Session 1: HPC and GenAI                   |
+|             | Talk 1 (30 minutes): EPCC - AI Supercomputer / ExaScale Computer |
+|             | Talk 2 (30 minutes): Aaron Zhao, Imperial College |
+| 12:10-12:30 | PhD Lightening Talks (Session 2)            |
+| 12:30-2:00  | Lunch (Buffet)                             |
+| 2:00-3:50   | Session: Efficient Models and Methods for GenAI |
+|             | Talk 1 (40 minutes): Cohere AI              |
+|             | Talk 2 (30 minutes): Malted AI              |
+|             | Talk 3 (40 minutes): Alex Tong, MILA        |
+| 3:50-4:00   | Break                                      |
+| 4:00-5:00   | Panel Discussion: Next Models and Methods for Efficient GenAI |
+| 5:00-6:00   | Networking session & Poster sessions – light drinks and food to be provided |
