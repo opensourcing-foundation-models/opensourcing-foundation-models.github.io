@@ -21,7 +21,7 @@ nav_order: 1
 
 <br>
 
-This workshop aims to bring together researchers and practitioners in the field of generative AI, focusing on Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The objective is to foster collaboration and share insights to improve the training and deployment efficiency of these models. This initiative is expected to drive innovation across the entire system stack, encompassing models, algorithms, software, and hardware.
+This workshop aims to bring together researchers and practitioners in the field of generative AI, focusing on Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The objective is to foster collaboration and share insights to improve the training and deployment efficiency of these models. This initiative is expected to drive innovation across the entire system stack, encompassing models, algorithms, software, and hardware. This workshop is funed by the the recently launched [Edinburgh Genewrative AI Lab (GAIL)](https://www.ed.ac.uk/news/2023/university-to-lead-new-era-of-generative-ai).
 
 We are pleased to announce that we have confirmed invited speakers from University of Edinburgh, UC Berkeley, MIT, Imperial College London, University of Cambridge, Mila - Quebec AI Institute, GraphCore, Cohere AI, Tenstorrent, Amazon AI Lab, Malted AI, and EPCC (UK Supercomputing Centre). Additional confirmations from invited speakers are anticipated in the coming weeks.
 
@@ -180,7 +180,7 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
 <!-- <br>Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo -->
 <!-- <br><br> -->
 
-## Organizers
+## Organization Chairs
 <html>
     <div class="team-container">
         <div class="team-member">
@@ -193,6 +193,26 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
             <p><a href="https://ducdauge.github.io/">Edoardo Ponti</a>
             <br>University of Edinburgh</p>
         </div>
+    </div>
+</html>
+
+## GAIL Interim Director
+
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/organizers/mirella_lapata.jpg" alt="Name 1">
+            <p><a href="https://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>
+            <br>University of Edinburgh</p>
+        </div>
+    </div>
+</html>
+
+
+## Organization Team Members
+
+<html>
+    <div class="team-container">
         <div class="team-member">
             <img src="/assets/img/organizers/pasquale_minervini.jpg" alt="Name 3">
             <p><a href="http://www.neuralnoise.com/">Pasquale Minervini</a>
@@ -204,28 +224,21 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
+            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 6">
+            <p><a href="https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
             <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 5">
             <p><a href="https://franxyao.github.io/">Yao Fu</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 6">
-            <p><a href="https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a>
-            <br>University of Edinburgh</p>
-        </div>
-    </div>
-</html>
-
-    
-**Web Chair**
-
-<html>
-    <div class="team-container">
-        <div class="team-member">
             <img src="/assets/img/organizers/yeqi-huang.jpg" alt="Name 6">
             <p><a href="https://yeqi-huang.com">Yeqi Huang</a>
             <br>University of Edinburgh</p>
         </div>
+    </div>
     </div>
 </html>
 
