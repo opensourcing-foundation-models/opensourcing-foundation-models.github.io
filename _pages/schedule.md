@@ -32,6 +32,8 @@ nav_order: 5
 
 ## Day 2 (9:30am – 6:00pm)
 
+| Time        | Event                                      |
+|-------------|--------------------------------------------|
 | 9:30-10:00  | Welcome session: coffee & bakery           |
 | 10:00-11:00 | Keynote (Andrew Fitzgibbon, GraphCore)     |
 | 11:00-11:10 | Break                                      |
