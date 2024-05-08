@@ -196,18 +196,6 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
     </div>
 </html>
 
-## GAIL Interim Director
-
-<html>
-    <div class="team-container">
-        <div class="team-member">
-            <img src="/assets/img/organizers/mirella_lapata.jpg" alt="Name 9">
-            <p><a href="https://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>
-            <br>University of Edinburgh</p>
-        </div>
-    </div>
-</html>
-
 
 ## Organization Committee Members
 
@@ -221,6 +209,11 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
         <div class="team-member">
             <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 2">
             <p><a href="https://antreas.io/home/">Antreas Antoniou</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/xuan-sun.jpg" alt="Name 6">
+            <p><a href="https://scholar.google.com/citations?user=KbEYCoUAAAAJ&hl=en">Xuan Sun</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
@@ -238,9 +231,17 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
             <p><a href="https://yeqi-huang.com">Yeqi Huang</a>
             <br>University of Edinburgh</p>
         </div>
+    </div>
+</html>
+
+
+## GAIL Interim Director
+
+<html>
+    <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/xuan-sun.jpeg" alt="Name 6">
-            <p><a href="https://scholar.google.com/citations?user=KbEYCoUAAAAJ&hl=en">Xuan Sun</a>
+            <img src="/assets/img/organizers/mirella_lapata.jpg" alt="Name 9">
+            <p><a href="https://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>
             <br>University of Edinburgh</p>
         </div>
     </div>
