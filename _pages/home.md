@@ -23,9 +23,9 @@ nav_order: 1
 
 The International Workshop on Efficient GenAI (2024) aims to bring together researchers and practitioners in the field of generative AI, focusing on Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The objective is to foster collaboration and share insights to improve the training and deployment efficiency of these models. This initiative is expected to drive innovation across the entire system stack, encompassing models, algorithms, software, and hardware. This workshop is funed by the the recently launched [Edinburgh Generative AI Lab (GAIL)](https://www.ed.ac.uk/news/2023/university-to-lead-new-era-of-generative-ai).
 
-We are pleased to announce that we have confirmed invited speakers from University of Edinburgh, UC Berkeley, MIT, Imperial College London, University of Cambridge, Mila - Quebec AI Institute, GraphCore, Cohere AI, Tenstorrent, Amazon AI Lab, Malted AI, and EPCC (UK Supercomputing Centre). 
+We are pleased to announce that we have confirmed invited speakers from University of Edinburgh, UC Berkeley, MIT, Imperial College London, University of Cambridge, Mila - Quebec AI Institute, GraphCore, Cohere AI, Tenstorrent, Amazon AI Lab, Malted AI, and EPCC (UK's Supercomputing Centre). 
 
-We extend this invitation to researchers and students from all UK's organizations and universities. Edinburgh's PhD students are invited to send us expressions of interest to give lightning talks and present posters through this form: https://forms.office.com/e/LDj3QMiAYZ.
+We extend this invitation to researchers and students from UK's organizations and universities. PhD students and researchers are invited to send us expressions of interest to give lightning talks and present posters through this [form](https://forms.office.com/e/LDj3QMiAYZ).
 
 <br>
 
