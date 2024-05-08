@@ -184,12 +184,12 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 1">
+            <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 7">
             <p><a href="https://luomai.github.io/">Luo Mai</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 2">
+            <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 8">
             <p><a href="https://ducdauge.github.io/">Edoardo Ponti</a>
             <br>University of Edinburgh</p>
         </div>
@@ -201,7 +201,7 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/mirella_lapata.jpg" alt="Name 1">
+            <img src="/assets/img/organizers/mirella_lapata.jpg" alt="Name 9">
             <p><a href="https://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>
             <br>University of Edinburgh</p>
         </div>
@@ -209,33 +209,38 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
 </html>
 
 
-## Organization Team Members
+## Organization Committee Members
 
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/pasquale_minervini.jpg" alt="Name 3">
+            <img src="/assets/img/organizers/pasquale_minervini.jpg" alt="Name 1">
             <p><a href="http://www.neuralnoise.com/">Pasquale Minervini</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 4">
+            <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 2">
             <p><a href="https://antreas.io/home/">Antreas Antoniou</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 6">
+            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 3">
             <p><a href="https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 5">
+            <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 4">
             <p><a href="https://franxyao.github.io/">Yao Fu</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yeqi-huang.jpg" alt="Name 6">
+            <img src="/assets/img/organizers/yeqi-huang.jpg" alt="Name 5">
             <p><a href="https://yeqi-huang.com">Yeqi Huang</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/xuan-sun.jpeg" alt="Name 6">
+            <p><a href="https://scholar.google.com/citations?user=KbEYCoUAAAAJ&hl=en">Xuan Sun</a>
             <br>University of Edinburgh</p>
         </div>
     </div>
