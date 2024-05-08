@@ -239,7 +239,6 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
             <br>University of Edinburgh</p>
         </div>
     </div>
-    </div>
 </html>
 
 <!-- ## Steering Committee -->
