@@ -11,8 +11,8 @@ nav_order: 5
 
 ## Day 1 (9:30am – 6:00pm)
 
-| Time        | Event                                      |
-|-------------|--------------------------------------------|
+<br>
+
 | 9:30-10:00  | Welcome session: coffee & bakery           |
 | 10:00-10:10 | Welcome & logistic - Luo / Edoardo, Edinburgh |
 | 10:10-10:20 | GAIL Introduction - Mirella, Edinburgh     |
@@ -29,11 +29,14 @@ nav_order: 5
 | 3:50-4:00   | Break                                      |
 | 4:00-5:00   | Panel Discussion: Next Software & Hardware for Efficient GenAI |
 | 5:00-6:00   | Networking session & Poster sessions – light drinks and food to be provided |
+| | |
+
+<br>
 
 ## Day 2 (9:30am – 6:00pm)
 
-| Time        | Event                                      |
-|-------------|--------------------------------------------|
+<br>
+
 | 9:30-10:00  | Welcome session: coffee & bakery           |
 | 10:00-11:00 | Keynote (Andrew Fitzgibbon, GraphCore)     |
 | 11:00-11:10 | Break                                      |
@@ -49,3 +52,4 @@ nav_order: 5
 | 3:50-4:00   | Break                                      |
 | 4:00-5:00   | Panel Discussion: Next Models and Methods for Efficient GenAI |
 | 5:00-6:00   | Networking session & Poster sessions – light drinks and food to be provided |
+| | |
