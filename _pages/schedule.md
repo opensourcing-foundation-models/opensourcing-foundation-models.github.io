@@ -23,10 +23,10 @@ nav_order: 5
 | 11:50-12:30 | PhD Lightning Talks (**Session** 1)            |
 | 12:30-2:00  | Lunch (Buffet)                             |
 | 2:00-3:50   | **Session**: Benchmark, Cloud and Compilers for Efficient GenAI |
-|             | **Talk** 1 (40 minutes): Minjie Wang, Amazon AI Lab |
+|             | **Talk** 1 (30 minutes): EPCC - AI Supercomputer / ExaScale Computer |
 |             | **Talk** 2 (30 minutes): Peter Pietzuch, Imperial College |
-|             | **Talk** 3 (40 minutes): Willow Ahrens, MIT     |
-| 3:50-4:00   | Break: coffee, tea and biscuit                                       |
+|             | **Talk** 1 (40 minutes): Minjie Wang, Amazon AI Lab |
+| 3:40-4:00   | Break: coffee, tea and biscuit                                       |
 | 4:00-5:00   | Panel Discussion: New Software and Hardware: Challenges, Opportunities and Collaboration |
 | 5:00-6:00   | Networking session & Poster sessions – light drinks and food to be provided |
 | | |
@@ -38,10 +38,10 @@ nav_order: 5
 <br>
 
 | 9:30-10:00  | Welcome & Registration: coffee, tea and biscuit         |
-| 10:00-11:00 | **Keynote** (Andrew Fitzgibbon, Fellow of the Royal Academy of Engineering)     |
-| 11:00-11:10 | Break: coffee, tea and biscuit                                       |
-| 11:10-12:10 | **Session** 1: High-Performance Computing and GenAI                   |
-|             | **Talk** 1 (30 minutes): EPCC - AI Supercomputer / ExaScale Computer |
+| 10:00-10:50 | **Keynote** (Andrew Fitzgibbon, Fellow of the Royal Academy of Engineering)     |
+| 10:50-11:00 | Break: coffee, tea and biscuit                                       |
+| 11:00-12:10 | **Session** 1: Compilers, Quantization and GenAI                   |
+|             | **Talk** 1 (40 minutes): Willow Ahrens, MIT      |
 |             | **Talk** 2 (30 minutes): Aaron Zhao, Imperial College |
 | 12:10-12:30 | PhD Lightning Talks (**Session** 2)            |
 | 12:30-2:00  | Lunch (Buffet)                             |
