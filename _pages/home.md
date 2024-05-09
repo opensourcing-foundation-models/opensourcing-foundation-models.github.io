@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">International Workshop on Efficient Generative AI</h3>
+title: <h3  align="center">2024 International Workshop on Efficient Generative AI</h3>
 nav_order: 1
 ---
 
@@ -21,11 +21,11 @@ nav_order: 1
 
 <br>
 
-This workshop aims to bring together researchers and practitioners in the field of generative AI, focusing on Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The objective is to foster collaboration and share insights to improve the training and deployment efficiency of these models. This initiative is expected to drive innovation across the entire system stack, encompassing models, algorithms, software, and hardware. This workshop is funed by the the recently launched [Edinburgh Genewrative AI Lab (GAIL)](https://www.ed.ac.uk/news/2023/university-to-lead-new-era-of-generative-ai).
+The 2024 International Workshop on Efficient GenAI aims to bring together researchers and practitioners in the field of generative AI, focusing on Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The objective is to foster collaboration and share insights to improve the training and deployment efficiency of these models. This initiative is expected to drive innovation across the entire system stack, encompassing models, algorithms, software, and hardware. This workshop is funed by the the recently launched [Edinburgh Generative AI Lab (GAIL)](https://www.ed.ac.uk/news/2023/university-to-lead-new-era-of-generative-ai).
 
-We are pleased to announce that we have confirmed invited speakers from University of Edinburgh, UC Berkeley, MIT, Imperial College London, University of Cambridge, Mila - Quebec AI Institute, GraphCore, Cohere AI, Tenstorrent, Amazon AI Lab, Malted AI, and EPCC (UK Supercomputing Centre). Additional confirmations from invited speakers are anticipated in the coming weeks.
+We are pleased to announce that we have confirmed invited speakers from University of Edinburgh, UC Berkeley, MIT, Imperial College London, Mila - Quebec AI Institute, GraphCore, Cohere AI, Tenstorrent, Amazon AI Lab, Malted AI, and EPCC (UK's Supercomputing Centre). We have released a tentative schedule [here](https://efficient-generative-ai.github.io/schedule/).
 
-We extend this invitation to researchers and students from UK organizations and universities. If you are interested in participating, please let us know. Limited travel grants may be available to support PhD students attending the workshop.
+We extend this invitation to researchers and students from UK's organizations and universities. PhD students and researchers are invited to send us expressions of interest to give lightning talks and present posters through this [form](https://forms.office.com/e/LDj3QMiAYZ).
 
 <br>
 
@@ -184,58 +184,64 @@ The workshop will include keynote speeches, panel discussions, invited talks, an
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 1">
+            <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 7">
             <p><a href="https://luomai.github.io/">Luo Mai</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 2">
+            <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 8">
             <p><a href="https://ducdauge.github.io/">Edoardo Ponti</a>
             <br>University of Edinburgh</p>
         </div>
     </div>
 </html>
 
-## GAIL Interim Director
+
+## Organization Committee Members
 
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/mirella_lapata.jpg" alt="Name 1">
-            <p><a href="https://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>
+            <img src="/assets/img/organizers/pasquale_minervini.jpg" alt="Name 1">
+            <p><a href="http://www.neuralnoise.com/">Pasquale Minervini</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 2">
+            <p><a href="https://antreas.io/home/">Antreas Antoniou</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/xuan-sun.png" alt="Name 6">
+            <p><a href="https://scholar.google.com/citations?user=KbEYCoUAAAAJ&hl=en">Xuan Sun</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 3">
+            <p><a href="https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 4">
+            <p><a href="https://franxyao.github.io/">Yao Fu</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/yeqi-huang.jpg" alt="Name 5">
+            <p><a href="https://yeqi-huang.com">Yeqi Huang</a>
             <br>University of Edinburgh</p>
         </div>
     </div>
 </html>
 
 
-## Organization Team Members
+## GAIL Interim Director
 
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/pasquale_minervini.jpg" alt="Name 3">
-            <p><a href="http://www.neuralnoise.com/">Pasquale Minervini</a>
-            <br>University of Edinburgh</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 4">
-            <p><a href="https://antreas.io/home/">Antreas Antoniou</a>
-            <br>University of Edinburgh</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 6">
-            <p><a href="https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a>
-            <br>University of Edinburgh</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 5">
-            <p><a href="https://franxyao.github.io/">Yao Fu</a>
-            <br>University of Edinburgh</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/yeqi-huang.jpg" alt="Name 6">
-            <p><a href="https://yeqi-huang.com">Yeqi Huang</a>
+            <img src="/assets/img/organizers/mirella_lapata.jpg" alt="Name 9">
+            <p><a href="https://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>
             <br>University of Edinburgh</p>
         </div>
     </div>

@@ -13,21 +13,21 @@ nav_order: 5
 
 <br>
 
-| 9:30-10:00  | Welcome session: coffee & bakery           |
-| 10:00-10:10 | Welcome & logistic - Luo / Edoardo, Edinburgh |
-| 10:10-10:20 | GAIL Introduction - Mirella, Edinburgh     |
+| 9:30-10:00  | Welcome & Registration: coffee, tea and biscuit           |
+| 10:00-10:10 | Workshop Introduction & Logistic - Luo Mai & Edoardo Ponti, University of Edinburgh |
+| 10:10-10:20 | GAIL Introduction - Mirella Lapata, University of Edinburgh     |
 | 10:20-11:40 | **Session**: Software & Hardware for Efficient GenAI |
 |             | **Talk** 1 (40 minutes): Woosuk Kwon, UC Berkely |
 |             | **Talk** 2 (40 minutes): Tenstorrent            |
-| 11:40-11:50 | Break                                      |
-| 11:50-12:30 | PhD Lightning Talks (**Session** 1)            |
-| 12:30-2:00  | Lunch (Buffet)                             |
-| 2:00-3:50   | **Session**: Benchmark, Cloud and Compilers for Efficient GenAI |
-|             | **Talk** 1 (40 minutes): Minjie Wang, Amazon AI Lab |
-|             | **Talk** 2 (30 minutes): Peter Pietzuch, Imperial College |
-|             | **Talk** 3 (40 minutes): Willow Ahrens, MIT     |
-| 3:50-4:00   | Break                                      |
-| 4:00-5:00   | Panel Discussion: Next Software & Hardware for Efficient GenAI |
+| 11:40-11:50 | Break: coffee, tea and biscuit                                       |
+| 11:50-12:30 | **Session**: PhD Lightning Talks            |
+| 12:30-1:50  | Lunch (Buffet)                             |
+| 1:50-3:50   | **Session**: Supercomputer, Cloud and Benchmark for Efficient GenAI |
+|             | **Talk** 1 (40 minutes): EPCC - AI Supercomputer / ExaScale Computer |
+|             | **Talk** 2 (40 minutes): Peter Pietzuch, Imperial College |
+|             | **Talk** 3 (40 minutes): Minjie Wang, Amazon AI Lab |
+| 3:50-4:00   | Break: coffee, tea and biscuit                                       |
+| 4:00-5:00   | Panel Discussion: New Software and Hardware: Challenges, Opportunities and Collaboration |
 | 5:00-6:00   | Networking session & Poster sessions – light drinks and food to be provided |
 | | |
 
@@ -37,19 +37,18 @@ nav_order: 5
 
 <br>
 
-| 9:30-10:00  | Welcome session: coffee & bakery           |
+| 9:30-10:00  | Welcome & Registration: coffee, tea and biscuit         |
 | 10:00-11:00 | **Keynote** (Andrew Fitzgibbon, Fellow of the Royal Academy of Engineering)     |
-| 11:00-11:10 | Break                                      |
-| 11:10-12:10 | **Session** 1: HPC and GenAI                   |
-|             | **Talk** 1 (30 minutes): EPCC - AI Supercomputer / ExaScale Computer |
-|             | **Talk** 2 (30 minutes): Aaron Zhao, Imperial College |
-| 12:10-12:30 | PhD Lightening Talks (**Session** 2)            |
-| 12:30-2:00  | Lunch (Buffet)                             |
-| 2:00-3:50   | **Session**: Efficient Models and Methods for GenAI |
+| 11:10-11:00 | Break: coffee, tea and biscuit                                       |
+| 11:10-12:30 | **Session**: Sparsity, Quantization and GenAI                   |
+|             | **Talk** 1 (40 minutes): Willow Ahrens, MIT      |
+|             | **Talk** 2 (40 minutes): Aaron Zhao, Imperial College |
+| 12:30-1:50  | Lunch (Buffet)                             |
+| 1:50-3:50   | **Session**: Efficient Models and Methods for GenAI |
 |             | **Talk** 1 (40 minutes): Cohere AI              |
-|             | **Talk** 2 (30 minutes): Malted AI              |
+|             | **Talk** 2 (40 minutes): Malted AI              |
 |             | **Talk** 3 (40 minutes): Alex Tong, MILA        |
-| 3:50-4:00   | Break                                      |
-| 4:00-5:00   | Panel Discussion: Next Models and Methods for Efficient GenAI |
+| 3:50-4:00   | Break: coffee, tea and biscuit                                       |
+| 4:00-5:00   | Panel Discussion: New Models and Methods: Challenges, Opportunities and Collaboration |
 | 5:00-6:00   | Networking session & Poster sessions – light drinks and food to be provided |
 | | |
