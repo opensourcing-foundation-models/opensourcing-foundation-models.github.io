@@ -20,7 +20,7 @@ nav_order: 5
 |             | **Talk** 1 (40 minutes): Woosuk Kwon, UC Berkely |
 |             | **Talk** 2 (40 minutes): Tenstorrent            |
 | 11:40-11:50 | Break: coffee, tea and biscuit                                       |
-| 11:50-12:30 | **Session 1**: PhD Lightning Talks            |
+| 11:50-12:30 | **Session**: PhD Lightning Talks            |
 | 12:30-1:50  | Lunch (Buffet)                             |
 | 1:50-3:50   | **Session**: Supercomputer, Cloud and Benchmark for Efficient GenAI |
 |             | **Talk** 1 (40 minutes): EPCC - AI Supercomputer / ExaScale Computer |
