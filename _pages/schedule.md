@@ -14,7 +14,7 @@ nav_order: 5
 <br>
 
 | 9:30-10:00  | Welcome & Registration: coffee, tea and biscuit           |
-| 10:00-10:10 | Workshop Introduction & Logistic - Luo Mai & Edoardo Pointi, University of Edinburgh |
+| 10:00-10:10 | Workshop Introduction & Logistic - Luo Mai & Edoardo Ponti, University of Edinburgh |
 | 10:10-10:20 | GAIL Introduction - Mirella Lapata, University of Edinburgh     |
 | 10:20-11:40 | **Session**: Software & Hardware for Efficient GenAI |
 |             | **Talk** 1 (40 minutes): Woosuk Kwon, UC Berkely |
