@@ -20,7 +20,7 @@ nav_order: 5
 |             | **Talk** 1 (40 minutes): Woosuk Kwon, UC Berkely |
 |             | **Talk** 2 (40 minutes): Tenstorrent            |
 | 11:40-11:50 | Break: coffee, tea and biscuit                                       |
-| 11:50-12:30 | PhD Lightning Talks (**Session 1**)            |
+| 11:50-12:30 | **Session 1**: PhD Lightning Talks            |
 | 12:30-1:50  | Lunch (Buffet)                             |
 | 1:50-3:50   | **Session**: Supercomputer, Cloud and Benchmark for Efficient GenAI |
 |             | **Talk** 1 (40 minutes): EPCC - AI Supercomputer / ExaScale Computer |
@@ -40,7 +40,7 @@ nav_order: 5
 | 9:30-10:00  | Welcome & Registration: coffee, tea and biscuit         |
 | 10:00-11:00 | **Keynote** (Andrew Fitzgibbon, Fellow of the Royal Academy of Engineering)     |
 | 11:10-11:00 | Break: coffee, tea and biscuit                                       |
-| 11:10-12:30 | **Session**: Compilers, Quantization and GenAI                   |
+| 11:10-12:30 | **Session**: Sparsity, Quantization and GenAI                   |
 |             | **Talk** 1 (40 minutes): Willow Ahrens, MIT      |
 |             | **Talk** 2 (40 minutes): Aaron Zhao, Imperial College |
 | 12:30-1:50  | Lunch (Buffet)                             |
