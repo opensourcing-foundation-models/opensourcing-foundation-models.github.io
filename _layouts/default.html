@@ -1,39 +1,37 @@
+---
+layout: parse
+---
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<html lang="{{ site.lang }}">
 
-  <!-- Open Graph meta tags for LinkedIn -->
-  <meta property="og:title" content="2024 International Workshop on Efficient Generative AI">
-  <meta property="og:description" content="Join us for the 2024 International Workshop on Efficient Generative AI, featuring keynote speeches, panel discussions, and networking sessions.">
-  <meta property="og:image" content="{{ '/assets/img/main.jpeg' | relative_url }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:type" content="website">
+  <!-- Head -->
+  <head>
+  {%- if page.redirect -%}
+    <meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" />
+  {%- endif -%}
+  {% include head.html %}
+  </head>
 
-  <!-- Additional meta tags for Twitter Cards (optional) -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="2024 International Workshop on Efficient Generative AI">
-  <meta name="twitter:description" content="Join us for the 2024 International Workshop on Efficient Generative AI, featuring keynote speeches, panel discussions, and networking sessions.">
-  <meta name="twitter:image" content="{{ '/assets/img/main.jpeg' | relative_url }}">
-</head>
-<body>
-  <header>
-    <h1>{{ site.title }}</h1>
-    <nav>
-      <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/venue' | relative_url }}">Venue</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-  <footer>
-    <p>&copy; 2024 International Workshop on Efficient Generative AI</p>
-  </footer>
-</body>
+  <!-- Body -->
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+
+    <!-- Header -->
+    {%- include header.html %}
+
+    <!-- Content -->
+    <div class="container mt-5">
+      {{ content }}
+    </div>
+
+    <!-- Footer -->
+    {%- include footer.html %}
+
+    <!-- JavaScripts -->
+    {% include scripts/jquery.html %}
+    {% include scripts/bootstrap.html %}
+    {% include scripts/masonry.html %}
+    {% include scripts/misc.html %}
+    {% include scripts/mathjax.html %}
+    {% include scripts/analytics.html %}
+  </body>
 </html>
