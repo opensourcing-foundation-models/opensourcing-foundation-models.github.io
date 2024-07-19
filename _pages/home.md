@@ -189,7 +189,7 @@ This workshop invites an exploration of Language Gamification through a diverse 
 /* Style for each team member */
 .team-member {
     text-align: center;
-    background-color: #fff;
+    /* background-color: #fff; */
     padding: 0px;
     width: 260px; /* Set a fixed width for consistent circle appearance */
     height: 260px; /* Set a fixed height for consistent circle appearance */
