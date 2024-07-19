@@ -2,7 +2,7 @@
 layout: default2
 title: Venue
 permalink: /venue/
-nav: True
+nav: False
 nav_order: 4
 ---
 

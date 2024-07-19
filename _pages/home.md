@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">Language Gamification Workshop 2024</h3>
+title: <h2 align="center">Language Gamification Workshop 2024</h2>
 nav_order: 1
 ---
 
@@ -25,48 +25,61 @@ nav_order: 1
 
 <!-- <br> -->
 
-The 2024 International Workshop on Efficient GenAI aims to bring together researchers and practitioners in the field of generative AI, focusing on Large Language Models (LLMs) and Large Multi-Modal Models (LMMs). The objective is to foster collaboration and share insights to improve the training and deployment efficiency of these models. This initiative is expected to drive innovation across the entire system stack, encompassing models, algorithms, software, and hardware. This workshop is funded by the the recently launched [Edinburgh Generative AI Lab (GAIL)](https://www.ed.ac.uk/news/2023/university-to-lead-new-era-of-generative-ai).
+### What is "Language Gamification"?
 
-We are pleased to announce that we have confirmed invited speakers from University of Edinburgh, UC Berkeley, MIT, Imperial College London, Mila - Quebec AI Institute, GraphCore, Cohere AI, Tenstorrent, Amazon AI Lab, Malted AI, and EPCC (UK's Supercomputing Centre). We have released a [tentative schedule](https://efficient-generative-ai.github.io/schedule/).
+Ludwig Wittgenstein, in his seminal work "Philosophical Investigations", introduced the concept of "language games."
+This framework views language as an adaptive system where words acquire meaning through use, emphasizing its social and interactive nature.
+Research in cognitive science reinforces this notion, highlighting that genuine language acquisition thrives on dynamic and context-driven interactions.
+Language emergence simulations further demonstrate the critical role of language transmission within a population of agents in shaping modern languages.
+Game theory experiments showcase the superiority of interactive self-play loops compared to traditional imitation-based models.
+Meanwhile, the core training paradigm in language processing remains purely based on supervised and preference losses and has barely changed over the past years.
+Besides, some limitations in LLMs, e.g., restricted planning abilities and insufficient personalization, suggest a potential deficiency in their training: the lack of interaction. 
 
-<br>
-
-## Venue :sparkles: :smile:
-
-The workshop will be held at the [Informatics Forum, University of Edinburgh](/venue/), in room G.07.
-<br>
-
-<br>
-
-## Topics
-
-The workshop covers the following topics:
-
-#### Efficient Model Architectures
-Exploring innovations in language and multi-modal models, such as nanoT5, retrieval-based LLMs, and multi-modal integration techniques exemplified by LLaVA and GPT4V.
-
-#### Training and Fine-tuning Methods
-Delving into efficient strategies for LLM/LMM training, including parameter-efficient fine-tuning and resource-efficient distributed training approaches.
-
-#### Inference Methods
-Addressing efficient inference methodologies, such as speculative decoding, along with compression and quantization techniques.
-
-#### Dataset Management and Retrieval-Based Methods
-Focusing on the challenges of efficiently managing datasets for LLMs and LMMs and enhancing the effectiveness of large-scale, intelligent retrieval.
-
-#### Efficient System Software
-Evaluating software solutions pivotal in training and deploying LLMs, including vLLM, PageAttention, DeepSpeed, Megatron-LM, and AI compilers.
-
-#### New Hardware Adoption
-Discussing the deployment of LLMs on emerging hardware platforms such as NVIDIA Graph-Hopper, GraphCore IPU, Cerebras Systems, and Tenstorrent Chips.
-
-#### Interdisciplinary Efficiency Perspectives
-Encouraging dialogues at the intersection of LLM efficiency and sectors such as energy, environment, and social studies, highlighting shared challenges and solutions.
+Inspired by these observations, our workshop explores the concept of Language Gamification to enable interactive LLM finetuning at scale.
+This training paradigm encompasses interactive training or evaluation loops that enable LLMs to bootstrap and ground their language through multi-agent interactions.
 
 <br>
 
+### Topics
+
+This workshop invites an exploration of Language Gamification through a diverse set of methodological perspectives and research backgrounds, offering a series of presentations and unique panel discussions, including:
+
+- **Cognitive Science:** Exploring the dynamic relationship between language use and human language acquisition.
+- **Multi-Agent Learning:** Establishing the theoretical foundations of language games.
+- **In-Context Learning:** Analyzing the plasticity of LLMs during language interactions.
+- **Language Emergence:** Uncovering insights into how humans naturally engage in language games and employing Deep Learning tools to model this process.
+- **Deep Reinforcement Learning:** Showcasing RL approaches that leverage language games to foster planning and reasoning abilities.
+- **Modern NLP:** Recent works promoting self-improvement approaches for LLMs.
+- **Embodied :** Investigating the role of language gamification in the development of embodied agents.
 
 <br>
+
+### :sparkles: Keynote Speakers
+
+<html>
+    <div class="team-container">
+        <div class="sponsor">
+            <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Name 6">
+            <p><a href="https://mlanctot.info/">Marc Lanctot</a>
+            <br>Google DeepMind<br>15:50-16:30</p>
+        </div>
+        <div class="sponsor">
+            <img src="/assets/img/speakers/tom_schaul.jpg" alt="Name 2">
+            <p><a href="https://schaul.site44.com/">Tom Schaul</a>
+            <br>Google DeepMind<br>09:20-10:00</p>
+        </div>
+        <div class="sponsor">
+            <img src="/assets/img/speakers/aga_slowik.jpg" alt="Name 5">
+            <p><a href="https://slowika.github.io/">Agnieszka Słowik</a>
+            <br>Microsoft Research Cambridge<br>13:40-14:20</p>
+        </div>
+    </div>
+</html>
+<br>
+<br>
+
+**More speakers to be announced soon!**
+
 
 <!-- ## Organization Chairs -->
 <!-- <html> -->
@@ -84,7 +97,9 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
 <!--     </div> --> 
 <!-- </html> -->
 
-## Organizers
+<br>
+
+### Organizers
 
 <html>
     <div class="team-container">
@@ -116,7 +131,7 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
     </div>
 </html>
 
-## Scientific Committee
+### Scientific Committee
 
 <html>
     <div class="team-container">
@@ -161,7 +176,7 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Display 3 members per row */
     gap: 5px;
-    max-width: 1000px;
+    max-width: 1024px;
     padding: 20px;
 }
 
@@ -176,7 +191,7 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
     text-align: center;
     background-color: #fff;
     padding: 0px;
-    width: 150px; /* Set a fixed width for consistent circle appearance */
+    width: 260px; /* Set a fixed width for consistent circle appearance */
     height: 260px; /* Set a fixed height for consistent circle appearance */
     /* box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1); */
     overflow: hidden; /* Hide any image overflow */
@@ -198,6 +213,9 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
 .sponsor-container {
     display: flex;
     gap: 5px;
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 1024px;
+    padding: 20px;
 }
 
 .sponsor {
@@ -205,8 +223,10 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
     margin: 10px;
     text-align: center;
     box-sizing: border-box;
-    height: 50px;
-    width: 50px;
+    height:250px;
+    width: 300px;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .sponsor img {  

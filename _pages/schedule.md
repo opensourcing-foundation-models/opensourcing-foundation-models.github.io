@@ -5,24 +5,24 @@ title: Schedule
 nav: true
 nav_order: 3
 ---
-# Schedule
+# Tentative Schedule
 
 <br>
 
-| 9:30-10:00  | Welcome & Registration: coffee, tea and biscuit           |
-| 10:00-10:10 | Workshop Introduction & Logistic - Luo Mai & Edoardo Ponti, University of Edinburgh |
-| 10:10-10:20 | GAIL Introduction - Mirella Lapata, University of Edinburgh     |
-| 10:20-11:40 | **Session**: Software & Hardware for Efficient GenAI |
-|             | **Talk** 1 (40 minutes): Woosuk Kwon, UC Berkely |
-|             | **Talk** 2 (40 minutes): Tenstorrent            |
-| 11:40-11:50 | Break: coffee, tea and biscuit                                       |
-| 11:50-12:30 | **Session**: PhD Lightning Talks            |
-| 12:30-1:50  | Lunch (Buffet)                             |
-| 1:50-3:50   | **Session**: Supercomputer, Cloud and Benchmark for Efficient GenAI |
-|             | **Talk** 1 (40 minutes): EPCC - AI Supercomputer / ExaScale Computer |
-|             | **Talk** 2 (40 minutes): Peter Pietzuch, Imperial College |
-|             | **Talk** 3 (40 minutes): Minjie Wang, Amazon AI Lab |
-| 3:50-4:00   | Break: coffee, tea and biscuit                                       |
-| 4:00-5:00   | Panel Discussion: New Software and Hardware: Challenges, Opportunities and Collaboration |
-| 5:00-6:00   | Networking session & Poster sessions – light drinks and food to be provided |
-| | |
+| 08:30-08:40  | Opening Remarks |
+| 08:40-09:20  | **Talk**: Language Gamification Introduction by Morten Christiansen|
+| 09:20-10:00  | **Talk**: Implementing Language Games at Scale by Tom Schaul|
+| 10:00-10:30  | **Spotlight Talks** |
+| 10:30-11:00  | Coffee Break & Poster Session |
+| 11:00-11:40  | **Talk**: Language Games in the LLM Era by Kyunghyun Cho|
+| 11:40-12:20  | **Talk**: Aligning Human and AI by Kate Larson|
+| 12:20-01:10  | Poster Session & Lunch |
+| 01:10-01:40  | **Break** |
+| 01:40-02:20  | **Talk**: Modelling Language Evolution through Lewis Games by Agnieszka Słowik|
+| 02:20-03:00  | **Talk**: In-context Language Task Solving by Ellie Pavlick|
+| 03:00-03:50  | Coffee Break & Poster Session |
+| 03:50-04:30  | **Talk**: Self-play for Language by Marc Lanctot|
+| 04:30-05:10  | **Talk**: Going beyond Language Games by Ida Momennejad|
+| 05:10-06:00  | Panel Discussion |
+| 06:00-06:10  | Closing Remarks |
+|||
