@@ -6,8 +6,6 @@ nav: True
 nav_order: 4
 ---
 
-# Venue
-
 ## Location
 
 **Room G.07, Ground Floor, Informatics Forum, University of Edinburgh**  

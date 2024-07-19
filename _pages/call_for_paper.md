@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default2
 permalink: /call/
 title: Call for Papers
 description:
@@ -7,20 +7,19 @@ nav: true
 nav_order: 2
 ---
 
-TBD
-
 <!-- # Call for Papers -->
 <!-- <br> -->
-<!-- ### Important Dates -->
-<!---->
+### Important Dates
+
 <!-- :loudspeaker: __The submission deadline is extended to October 4!__ -->
 <!---->
-<!-- * Submission Begins: September 1, 2023 -->
-<!--   * Submission Portal: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction); Style files: [Zip](/assets/template/instruction_workshop_template.zip), [Overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq) -->
-<!-- * __Submission Deadline: ~~October 1, 2023~~ October 4, 2023 (11:59pm, anywhere on earth)__ -->
-<!-- * Notification of Acceptance: October 27, 2023 -->
-<!-- * Camera-ready papers due: November 9, 2023 -->
-<!-- * Workshop Date: December 15, 2023 -->
+* Submission Begins: September 1, 2024
+* Submission Portal: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction); 
+* Style files: [Zip](/assets/template/instruction_workshop_template.zip), [Overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)
+* <span style="color:red;font-weight:bold;"> Submission Deadline: October 4, 2024 (11:59pm, anywhere on earth)</span>
+* Notification of Acceptance: October 27, 2024
+* Camera-ready papers due: November 9, 2024
+* Workshop Date: December 15, 2024
 <!---->
 <!---->
 <!-- <br> -->
@@ -55,3 +54,4 @@ TBD
 <!-- * The review process will be double-blind. -->
 <!-- * We will announce the best paper award at the workshop! -->
 <!-- <br> -->
+

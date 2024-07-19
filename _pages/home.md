@@ -31,26 +31,10 @@ We are pleased to announce that we have confirmed invited speakers from Universi
 
 <br>
 
-## Venue
+## Venue :sparkles: :smile:
 
 The workshop will be held at the [Informatics Forum, University of Edinburgh](/venue/), in room G.07.
 <br>
-
-
-<br>
-## Format and Participation
-
-The workshop will include keynote speeches, panel discussions, invited talks, and networking sessions.
-
-### Sign Up
-
-Please reserve your place for the workshop by clicking the "Register for Workshop" button at the top of the page.
-
-### Lightning Talks and Posters
-
-PhD students and researchers are invited to give lightning talks and present posters. To apply, click the "Give a talk and/or present poster of your work" button at the top of the page.
-<br>
-
 
 <br>
 
@@ -105,34 +89,29 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/pasquale_minervini.jpg" alt="Name 1">
-            <p><a href="http://www.neuralnoise.com/">Pasquale Minervini</a>
+            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 1">
+            <p><a href="hhttps://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/antreas_antoniou.jpg" alt="Name 2">
-            <p><a href="https://antreas.io/home/">Antreas Antoniou</a>
-            <br>University of Edinburgh</p>
+            <img src="/assets/img/organizers/yi_ren.jpg" alt="Name 2">
+            <p><a href="https://joshua-ren.github.io/">Yi Ren</a>
+            <br>University of British Columbia</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/xuan-sun.png" alt="Name 6">
-            <p><a href="https://scholar.google.com/citations?user=KbEYCoUAAAAJ&hl=en">Xuan Sun</a>
-            <br>University of Edinburgh</p>
+            <img src="/assets/img/organizers/elle_michelle_yang.jpg" alt="Name 6">
+            <p><a href="https://elleismatic.com/">Elle Michelle Yang</a>
+            <br>University of Oxford</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 3">
-            <p><a href="https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a>
-            <br>University of Edinburgh</p>
+            <img src="/assets/img/organizers/mathieu_rita.jpg" alt="Name 3">
+            <p><a href="https://mathieurita.github.io/">Mathieu Rita</a>
+            <br>Meta</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 4">
-            <p><a href="https://franxyao.github.io/">Yao Fu</a>
-            <br>University of Edinburgh</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/yeqi-huang.jpg" alt="Name 5">
-            <p><a href="https://yeqi-huang.com">Yeqi Huang</a>
-            <br>University of Edinburgh</p>
+            <img src="/assets/img/organizers/florian_strub.jpeg" alt="Name 4">
+            <p><a href="https://www.linkedin.com/in/florian-strub-64443527/">Florian Strub</a>
+            <br>Cohere</p>
         </div>
     </div>
 </html>
@@ -142,8 +121,13 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/mirella_lapata.jpg" alt="Name 9">
-            <p><a href="https://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>
+            <img src="/assets/img/organizers/olivier_pietquin.jpg" alt="Name 9">
+            <p><a href="https://www.linkedin.com/in/opietquin/">Olivier Pietquin</a>
+            <br>Cohere</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/kenny_smith.jpeg" alt="Name 9">
+            <p><a href="http://www.lel.ed.ac.uk/~kenny/">Kenny Smith</a>
             <br>University of Edinburgh</p>
         </div>
     </div>
