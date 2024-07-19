@@ -3,7 +3,7 @@ layout: default2
 title: Venue
 permalink: /venue/
 nav: True
-nav_order: 2
+nav_order: 4
 ---
 
 # Venue

@@ -3,7 +3,8 @@ layout: page
 permalink: /call/
 title: Call for Papers
 description:
-nav: false
+nav: true
+nav_order: 2
 ---
 
 TBD

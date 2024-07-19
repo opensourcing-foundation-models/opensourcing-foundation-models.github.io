@@ -84,23 +84,23 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
 
 <br>
 
-## Organization Chairs
-<html>
-    <div class="team-container">
-        <div class="team-member">
-            <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 7">
-            <p><a href="https://luomai.github.io/">Luo Mai</a>
-            <br>University of Edinburgh</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 8">
-            <p><a href="https://ducdauge.github.io/">Edoardo Ponti</a>
-            <br>University of Edinburgh</p>
-        </div>
-    </div>
-</html>
+<!-- ## Organization Chairs -->
+<!-- <html> -->
+<!--     <div class="team-container"> -->
+<!--         <div class="team-member">
+<!--             <img src="/assets/img/organizers/luo_mai.jpg" alt="Name 7"> -->
+<!--             <p><a href="https://luomai.github.io/">Luo Mai</a> -->
+<!--             <br>University of Edinburgh</p> -->
+<!--         </div> -->
+<!--         <div class="team-member"> -->
+<!--             <img src="/assets/img/organizers/edoardo_ponti.jpg" alt="Name 8"> -->
+<!--             <p><a href="https://ducdauge.github.io/">Edoardo Ponti</a> -->
+<!--             <br>University of Edinburgh</p> -->
+<!--         </div> -->
+<!--     </div> --> 
+<!-- </html> -->
 
-## Organization Committee Members
+## Organizers
 
 <html>
     <div class="team-container">
@@ -137,7 +137,7 @@ Encouraging dialogues at the intersection of LLM efficiency and sectors such as 
     </div>
 </html>
 
-## GAIL Interim Director
+## Scientific Committee
 
 <html>
     <div class="team-container">
