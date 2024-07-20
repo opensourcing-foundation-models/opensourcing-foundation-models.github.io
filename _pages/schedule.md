@@ -19,7 +19,7 @@ nav_order: 3
 | 12:20-01:10  | Poster Session & Lunch |
 | 01:10-01:40  | **Break** |
 | 01:40-02:20  | **Talk**: Modelling Language Evolution through Lewis Games by Agnieszka Słowik|
-| 02:20-03:00  | **Talk**: In-context Language Task Solving by Ellie Pavlick|
+| 02:20-03:00  | **Talk**: In-context Language Task Solving by Nouha Dziri|
 | 03:00-03:50  | Coffee Break & Poster Session |
 | 03:50-04:30  | **Talk**: Self-play for Language by Marc Lanctot|
 | 04:30-05:10  | **Talk**: Going beyond Language Games by Ida Momennejad|

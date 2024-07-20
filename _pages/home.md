@@ -50,7 +50,7 @@ This workshop invites an exploration of Language Gamification through a diverse 
 - **Language Emergence:** Uncovering insights into how humans naturally engage in language games and employing Deep Learning tools to model this process.
 - **Deep Reinforcement Learning:** Showcasing RL approaches that leverage language games to foster planning and reasoning abilities.
 - **Modern NLP:** Recent works promoting self-improvement approaches for LLMs.
-- **Embodied :** Investigating the role of language gamification in the development of embodied agents.
+- **Embodiment:** Investigating the role of language gamification in the development of embodied agents.
 
 <br>
 
@@ -59,22 +59,28 @@ This workshop invites an exploration of Language Gamification through a diverse 
 <html>
     <div class="team-container">
         <div class="sponsor">
-            <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Name 6">
+            <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Marc">
             <p><a href="https://mlanctot.info/">Marc Lanctot</a>
             <br>Google DeepMind<br>15:50-16:30</p>
         </div>
         <div class="sponsor">
-            <img src="/assets/img/speakers/tom_schaul.jpg" alt="Name 2">
+            <img src="/assets/img/speakers/tom_schaul.jpg" alt="Tom">
             <p><a href="https://schaul.site44.com/">Tom Schaul</a>
             <br>Google DeepMind<br>09:20-10:00</p>
         </div>
         <div class="sponsor">
-            <img src="/assets/img/speakers/aga_slowik.jpg" alt="Name 5">
+            <img src="/assets/img/speakers/aga_slowik.jpg" alt="Aga">
             <p><a href="https://slowika.github.io/">Agnieszka Słowik</a>
             <br>Microsoft Research Cambridge<br>13:40-14:20</p>
         </div>
+        <div class="sponsor">
+            <img src="/assets/img/speakers/nouha_dziri.jpg" alt="Nouha">
+            <p><a href="https://nouhadziri.github.io/">Nouha Dziri</a>
+            <br>Princeton University<br>14:20-15:00</p>
+        </div>
     </div>
 </html>
+
 <br>
 <br>
 
@@ -180,9 +186,9 @@ This workshop invites an exploration of Language Gamification through a diverse 
     padding: 20px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 512px) {
     .team-container {
-        grid-template-columns: repeat(2, 1fr); /* Display 2 members per row on smaller screens */
+        grid-template-columns: repeat(1, 1fr); /* Display 2 members per row on smaller screens */
     }
 }
 
@@ -203,40 +209,57 @@ This workshop invites an exploration of Language Gamification through a diverse 
 }
 
 .team-member img {
-  object-fit: cover;
-  border-radius:50%;
-  width: 150px;
-  height: 150px;
-  padding: 10px;
+    object-fit: cover;
+    border-radius:50%;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
 }
 
 .sponsor-container {
     display: flex;
-    gap: 5px;
-    grid-template-columns: repeat(3, 1fr);
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
     max-width: 1024px;
     padding: 20px;
 }
 
 .sponsor {
-    flex: 1;
-    margin: 10px;
+    flex: 0 0 calc(33.333% - 20px); /* Adjust width to account for gap */
+    max-width: 280px;
+    display: flex;
+    flex-direction: column;
     text-align: center;
-    box-sizing: border-box;
-    height:250px;
-    width: 300px;
     font-size: 18px;
     font-weight: bold;
 }
 
 .sponsor img {  
-    width: 100%; /* Make the image take up 100% of the figure's width */
-    height: 100%;
-    object-fit: contain; 
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    padding: 5px;
 }
 
 .caption {
-    margin-top: 12px; /* Adjust the margin to control the gap between the figure and the caption */
+    margin-top: 12px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+@media (max-width: 768px) {
+    .sponsor {
+        flex: 0 0 calc(50% - 20px); /* 2 columns on medium screens */
+    }
+}
+
+@media (max-width: 468) {
+    .sponsor {
+        flex: 0 0 100%; /* 1 column on smaller screens */
+    }
 }
 
 .right-half {
