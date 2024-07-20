@@ -59,11 +59,6 @@ This workshop invites an exploration of Language Gamification through a diverse 
 <html>
     <div class="team-container">
         <div class="sponsor">
-            <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Marc">
-            <p><a href="https://mlanctot.info/">Marc Lanctot</a>
-            <br>Google DeepMind<br>15:50-16:30</p>
-        </div>
-        <div class="sponsor">
             <img src="/assets/img/speakers/tom_schaul.jpg" alt="Tom">
             <p><a href="https://schaul.site44.com/">Tom Schaul</a>
             <br>Google DeepMind<br>09:20-10:00</p>
@@ -78,14 +73,20 @@ This workshop invites an exploration of Language Gamification through a diverse 
             <p><a href="https://nouhadziri.github.io/">Nouha Dziri</a>
             <br>Princeton University<br>14:20-15:00</p>
         </div>
+        <div class="sponsor">
+            <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Marc">
+            <p><a href="https://mlanctot.info/">Marc Lanctot</a>
+            <br>Google DeepMind<br>15:50-16:30</p>
+        </div>
     </div>
 </html>
 
+<span style="color:red;font-size:22px;">
+    More speakers to be announced soon!
+</span>
+
 <br>
 <br>
-
-**More speakers to be announced soon!**
-
 
 <!-- ## Organization Chairs -->
 <!-- <html> -->
