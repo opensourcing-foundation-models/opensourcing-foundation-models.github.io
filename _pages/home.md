@@ -212,8 +212,8 @@ This workshop invites an exploration of Language Gamification through a diverse 
 .team-member img {
     object-fit: cover;
     border-radius:50%;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     padding: 10px;
 }
 
