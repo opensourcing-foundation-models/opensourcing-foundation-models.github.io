@@ -112,7 +112,7 @@ This workshop invites an exploration of Language Gamification through a diverse 
     <div class="team-container">
         <div class="team-member">
             <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 1">
-            <p><a href="hhttps://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a>
+            <p><a href="https://www.linkedin.com/in/guoshangmin/">Shangmin Guo</a>
             <br>University of Edinburgh</p>
         </div>
         <div class="team-member">
