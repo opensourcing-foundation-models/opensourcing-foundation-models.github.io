@@ -71,7 +71,7 @@ This workshop invites an exploration of Language Gamification through a diverse 
         <div class="sponsor">
             <img src="/assets/img/speakers/nouha_dziri.jpg" alt="Nouha">
             <p><a href="https://nouhadziri.github.io/">Nouha Dziri</a>
-            <br>Princeton University<br>14:20-15:00</p>
+            <br>Allen Institute for AI (AI2)<br>14:20-15:00</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Marc">
@@ -89,9 +89,6 @@ This workshop invites an exploration of Language Gamification through a diverse 
 <span style="color:red;font-size:22px;">
     More speakers to be announced soon!
 </span>
-
-<br>
-<br>
 
 <!-- ## Organization Chairs -->
 <!-- <html> -->
