@@ -14,12 +14,29 @@ nav_order: 2
 <!-- :loudspeaker: __The submission deadline is extended to October 4!__ -->
 <!---->
 * Submission Begins: September 1, 2024
-* Submission Portal: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction); 
-* Style files: [Zip](/assets/template/instruction_workshop_template.zip), [Overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)
-* <span style="color:red;font-weight:bold;"> Submission Deadline: October 4, 2024 (11:59pm, anywhere on earth)</span>
-* Notification of Acceptance: October 27, 2024
-* Camera-ready papers due: November 9, 2024
+* Submit at: To be announced
+* <span style="color:red;font-weight:bold;"> Provisional Submission Deadline: October 1, 2024 (11:59pm, anywhere on earth)</span>
+* Notification of Acceptance: October 21, 2024
+* Camera-ready papers due: November 1, 2024
 * Workshop Date: December 15, 2024
+
+<br>
+
+### Formatting Instructions
+
+All submissions must be in PDF format, and in a single PDF file include, in this order:
+1. The submitted paper
+2. Technical appendices
+
+The main text of a submitted paper is limited to <span style="color:red;font-weight:bold;"> FOUR content pages </span>, including all figures and tables. Additional pages containing references don’t count as content pages.
+
+The main text and references may be followed by technical appendices, for which there is no page limit.
+
+All submission must follow the NeurIPS-2024 styles, and the corresponding style files can be downloaded as [Zip](/assets/files/Styles.zip), or accessed via [Overleaf](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh).
+
+For all other requirements, we follow the NeurIPS-2024 guidelines.
+Refer to the [NeurIPS-2024 Call for Papers](https://neurips.cc/Conferences/2024/CallForPapers) for more information.
+
 <!---->
 <!---->
 <!-- <br> -->
