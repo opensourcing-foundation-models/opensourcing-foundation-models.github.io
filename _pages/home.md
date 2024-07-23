@@ -78,6 +78,11 @@ This workshop invites an exploration of Language Gamification through a diverse 
             <p><a href="https://mlanctot.info/">Marc Lanctot</a>
             <br>Google DeepMind<br>15:50-16:30</p>
         </div>
+        <div class="sponsor">
+            <img src="/assets/img/speakers/ida.png" alt="Ida">
+            <p><a href="https://www.momen-nejad.org/">Ida Momennejad</a>
+            <br>Microsoft Research NYC<br>16:30-17:10</p>
+        </div>
     </div>
 </html>
 
