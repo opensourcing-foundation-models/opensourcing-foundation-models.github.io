@@ -20,22 +20,48 @@ nav_order: 2
 * Camera-ready papers due: November 1, 2024
 * Workshop Date: December 15, 2024
 
-<br>
+<be>
+
+### Call for papers
+
+We invite submissions exploring the intersection of language and interactive learning through the lens of Language Gamification. We welcome papers that address the following themes:
+
+* Any work combining deep (RL) learning methods for language with an interactive loop
+* Definition and/or implementation of language games or language interactive loop
+* Original interactive evaluation of LLM abilities, e.g., ChatArena and EconArena
+*  Game theory or multi-agent techniques are applied to language, such as self-play, turn-taking, etc.
+* Self-improvement and bootstrapping methods for LLMs
+* Population-based, swarm, or iteration-based training methods for language
+* In-context learning methods for LLM
+* Live-improvement with self-reflecting methods, e.g., inner-monologue, constitutional AI.
+* Agent LLMs that require interactive decision-making, planning, reasoning, tool use, etc.
+* Training with LLM as a judge (or RLAIF) approaches that go beyond preference tuning
+* Language emergence modeling papers
+* Original work bridging interactive language acquisition and LLMs beyond ML
+
+We appreciate any submissions believe contribute significantly to the field of Language Gamification, even if they don't perfectly fit within the listed categories.
+
+We welcome submissions from researchers who go beyond the classic Machine Learning community. This includes work in linguistics, anthropology, cognitive science, psychology, economics, philosophy, etc., related to language gamification or language games.
+
 
 ### Formatting Instructions
 
-All submissions must be in PDF format, and in a single PDF file include, in this order:
+All submissions must be in PDF format and in a single PDF file include, in this order:
 1. The submitted paper
 2. Technical appendices
 
 The main text of a submitted paper is limited to <span style="color:red;font-weight:bold;"> FOUR content pages </span>, including all figures and tables. Additional pages containing references don’t count as content pages.
 
-The main text and references may be followed by technical appendices, for which there is no page limit.
+The main text and references may be followed by technical appendices with no page limit.
 
-All submission must follow the NeurIPS-2024 styles, and the corresponding style files can be downloaded as [Zip](/assets/files/Styles.zip), or accessed via [Overleaf](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh).
+All submissions must follow the NeurIPS-2024 styles. The corresponding style files can be downloaded as [Zip](/assets/files/Styles.zip) or accessed via [Overleaf](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh).
 
 For all other requirements, we follow the NeurIPS-2024 guidelines.
-Refer to the [NeurIPS-2024 Call for Papers](https://neurips.cc/Conferences/2024/CallForPapers) for more information.
+For more information, refer to the [NeurIPS-2024 Call for Papers](https://neurips.cc/Conferences/2024/CallForPapers).
+
+### Paper presentation
+
+Accepted papers will be presented during joint poster sessions, and exceptional submissions will be selected for spotlight oral presentations. They will be made publicly available as non-archival reports, allowing for proceeding submission.
 
 <!---->
 <!---->
