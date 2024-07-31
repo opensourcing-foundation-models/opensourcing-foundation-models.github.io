@@ -20,7 +20,7 @@ nav_order: 2
 * Camera-ready papers due: November 1, 2024
 * Workshop Date: December 15, 2024
 
-<be>
+<br>
 
 ### Call for papers
 
