@@ -14,11 +14,11 @@ nav_order: 2
 <!-- :loudspeaker: __The submission deadline is extended to October 4!__ -->
 <!---->
 * Submission Begins: September 1, 2024
-* Submit at: To be announced
+* Submit at: [NeurIPS 2024 Workshop LanGame](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/LanGame) on OpenReview
 * <span style="color:red;font-weight:bold;"> Provisional Submission Deadline: October 1, 2024 (11:59pm, anywhere on earth)</span>
-* Notification of Acceptance: October 21, 2024
+* Notification of Acceptance: October 14, 2024
 * Camera-ready papers due: November 1, 2024
-* Workshop Date: December 15, 2024
+* Workshop Date: December 14, 2024
 
 <br>
 
@@ -62,6 +62,10 @@ For more information, refer to the [NeurIPS-2024 Call for Papers](https://neurip
 ### Paper presentation
 
 Accepted papers will be presented during joint poster sessions, and exceptional submissions will be selected for spotlight oral presentations. They will be made publicly available as non-archival reports, allowing for proceeding submission.
+
+<br>
+
+<br>
 
 <!---->
 <!---->
