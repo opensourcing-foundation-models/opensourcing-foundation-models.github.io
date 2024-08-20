@@ -15,8 +15,8 @@ nav_order: 2
 <!---->
 * Submission Begins: September 1, 2024
 * Submit at: [NeurIPS 2024 Workshop LanGame](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/LanGame) on OpenReview
-* <span style="color:red;font-weight:bold;"> Provisional Submission Deadline: October 1, 2024 (11:59pm, anywhere on earth)</span>
-* Notification of Acceptance: October 14, 2024
+* <span style="color:red;font-weight:bold;"> Submission Deadline: September 27, 2024 (11:59pm, anywhere on earth)</span>
+* Notification of Acceptance: October 9, 2024
 * Camera-ready papers due: November 1, 2024
 * Workshop Date: December 14, 2024
 
@@ -43,6 +43,7 @@ We appreciate any submissions believe contribute significantly to the field of 
 
 We welcome submissions from researchers who go beyond the classic Machine Learning community. This includes work in linguistics, anthropology, cognitive science, psychology, economics, philosophy, etc., related to language gamification or language games.
 
+<br>
 
 ### Formatting Instructions
 
@@ -58,6 +59,8 @@ All submissions must follow the NeurIPS-2024 styles. The corresponding style fil
 
 For all other requirements, we follow the NeurIPS-2024 guidelines.
 For more information, refer to the [NeurIPS-2024 Call for Papers](https://neurips.cc/Conferences/2024/CallForPapers).
+
+<br>
 
 ### Paper presentation
 
