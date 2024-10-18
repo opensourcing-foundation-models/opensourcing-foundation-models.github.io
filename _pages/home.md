@@ -61,22 +61,27 @@ This workshop invites an exploration of Language Gamification through a diverse 
         <div class="sponsor">
             <img src="/assets/img/speakers/aaron_courville.jpeg" alt="Aaron">
             <p><a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a>
-            <br>Université de Montréal<br>TBD</p>
+            <br>Université de Montréal<br>Talk time TBD</p>
         </div>
         <div class="sponsor">
-            <img src="/assets/img/speakers/tom_schaul.jpg" alt="Tom">
+            <img src="/assets/img/speakers/tom_griffiths.jpg" alt="TomG">
+            <p><a href="https://cocosci.princeton.edu/tom/index.php">Tom Griffiths</a>
+            <br>Princeton University<br>Panel discussion only</p>
+        </div>
+        <div class="sponsor">
+            <img src="/assets/img/speakers/tom_schaul.jpg" alt="TomS">
             <p><a href="https://schaul.site44.com/">Tom Schaul</a>
-            <br>Google DeepMind<br>TBD</p>
+            <br>Google DeepMind<br>Talk time TBD</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/nouha_dziri.jpg" alt="Nouha">
             <p><a href="https://nouhadziri.github.io/">Nouha Dziri</a>
-            <br>Allen Institute for AI (AI2)<br>TBD</p>
+            <br>Allen Institute for AI (AI2)<br>Talk time TBD</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/ida.png" alt="Ida">
             <p><a href="https://www.momen-nejad.org/">Ida Momennejad</a>
-            <br>Microsoft Research NYC<br>TBD</p>
+            <br>Microsoft Research NYC<br>Talk time TBD</p>
         </div>
     </div>
 </html>
