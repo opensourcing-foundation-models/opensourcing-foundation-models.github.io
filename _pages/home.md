@@ -59,24 +59,24 @@ This workshop invites an exploration of Language Gamification through a diverse 
 <html>
     <div class="team-container">
         <div class="sponsor">
-            <img src="/assets/img/speakers/tom_schaul.jpg" alt="Tom">
-            <p><a href="https://schaul.site44.com/">Tom Schaul</a>
-            <br>Google DeepMind<br>09:20-10:00</p>
+            <img src="/assets/img/speakers/aaron_courville.jpeg" alt="Aaron">
+            <p><a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a>
+            <br>Université de Montréal<br>TBD</p>
         </div>
         <div class="sponsor">
-            <img src="/assets/img/speakers/aga_slowik.jpg" alt="Aga">
-            <p><a href="https://slowika.github.io/">Agnieszka Słowik</a>
-            <br>Microsoft Research Cambridge<br>13:40-14:20</p>
+            <img src="/assets/img/speakers/tom_schaul.jpg" alt="Tom">
+            <p><a href="https://schaul.site44.com/">Tom Schaul</a>
+            <br>Google DeepMind<br>TBD</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/nouha_dziri.jpg" alt="Nouha">
             <p><a href="https://nouhadziri.github.io/">Nouha Dziri</a>
-            <br>Allen Institute for AI (AI2)<br>14:20-15:00</p>
+            <br>Allen Institute for AI (AI2)<br>TBD</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/ida.png" alt="Ida">
             <p><a href="https://www.momen-nejad.org/">Ida Momennejad</a>
-            <br>Microsoft Research NYC<br>16:30-17:10</p>
+            <br>Microsoft Research NYC<br>TBD</p>
         </div>
     </div>
 </html>
