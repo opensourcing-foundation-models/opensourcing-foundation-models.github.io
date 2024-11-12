@@ -81,7 +81,7 @@ This workshop invites an exploration of Language Gamification through a diverse 
         <div class="sponsor">
             <img src="/assets/img/speakers/tom_griffiths.jpg" alt="TomG">
             <p><a href="https://cocosci.princeton.edu/tom/index.php">Tom Griffiths</a>
-            <br>Princeton University<br>Panel discussion (TBC)</p>
+            <br>Princeton University<br>Talk time TBD</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/tom_schaul.jpg" alt="TomS">
