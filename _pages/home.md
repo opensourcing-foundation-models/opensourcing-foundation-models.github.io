@@ -74,6 +74,11 @@ This workshop invites an exploration of Language Gamification through a diverse 
             <br>Microsoft Research NYC<br>Talk time TBD</p>
         </div>
         <div class="sponsor">
+            <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Marxc">
+            <p><a href="https://mlanctot.info/">Marc Lanctot</a>
+            <br>Google DeepMind<br>Talk time TBD</p>
+        </div>
+        <div class="sponsor">
             <img src="/assets/img/speakers/nouha_dziri.jpg" alt="Nouha">
             <p><a href="https://nouhadziri.github.io/">Nouha Dziri</a>
             <br>Allen Institute for AI (AI2)<br>Talk time TBD</p>
