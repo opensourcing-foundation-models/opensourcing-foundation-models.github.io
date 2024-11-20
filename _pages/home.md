@@ -96,9 +96,6 @@ This workshop invites an exploration of Language Gamification through a diverse 
     </div>
 </html>
 
-<span style="color:red;font-size:22px;">
-    More speakers to be announced soon!
-</span>
 
 <!-- ## Organization Chairs -->
 <!-- <html> -->
