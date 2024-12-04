@@ -61,37 +61,37 @@ This workshop invites an exploration of Language Gamification through a diverse 
         <div class="sponsor">
             <img src="/assets/img/speakers/aaron_courville.jpeg" alt="Aaron">
             <p><a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a>
-            <br>Université de Montréal<br>Talk time TBD</p>
+            <br>Université de Montréal<br>Talk at 11:00am</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/alane_suhr.jpg" alt="Alane">
             <p><a href="https://vcresearch.berkeley.edu/faculty/alane-suhr">Alane Suhr</a>
-            <br>University of California, Berkeley<br>Talk time TBD</p>
+            <br>University of California, Berkeley<br>Talk at 14:00pm</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/ida.png" alt="Ida">
             <p><a href="https://www.momen-nejad.org/">Ida Momennejad</a>
-            <br>Microsoft Research NYC<br>Talk time TBD</p>
+            <br>Microsoft Research NYC<br>Talk at 15:40pm</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Marxc">
             <p><a href="https://mlanctot.info/">Marc Lanctot</a>
-            <br>Google DeepMind<br>Talk time TBD</p>
+            <br>Google DeepMind<br>Talk at 09:10am</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/nouha_dziri.jpg" alt="Nouha">
             <p><a href="https://nouhadziri.github.io/">Nouha Dziri</a>
-            <br>Allen Institute for AI (AI2)<br>Talk time TBD</p>
+            <br>Allen Institute for AI (AI2)<br>Talk at 08:30am</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/tom_griffiths.jpg" alt="TomG">
             <p><a href="https://cocosci.princeton.edu/tom/index.php">Tom Griffiths</a>
-            <br>Princeton University<br>Talk time TBD</p>
+            <br>Princeton University<br>Talk at 14:40pm</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/tom_schaul.jpg" alt="TomS">
             <p><a href="https://schaul.site44.com/">Tom Schaul</a>
-            <br>Google DeepMind<br>Talk time TBD</p>
+            <br>Google DeepMind<br>Talk at 11:40am</p>
         </div>
     </div>
 </html>
