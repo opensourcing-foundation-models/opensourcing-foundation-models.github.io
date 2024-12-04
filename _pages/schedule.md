@@ -10,20 +10,22 @@ nav_order: 3
 
 <br>
 
-| 08:30-08:40  | Opening Remarks |
-| 08:40-09:20  | **Talk**: TbA|
-| 09:20-10:00  | **Talk**: TbA |
+| 08:20-08:30  | Opening Remarks |
+| 08:30-09:10  | **Talk**: Nouha Dziri |
+| 09:10-09:50  | **Talk**: Marc Lanctot |
 | 10:00-10:30  | **Spotlight Talks** |
-| 10:30-11:00  | Coffee Break & Poster Session |
-| 11:00-11:40  | **Talk**: TbA|
-| 11:40-12:20  | **Talk**: TbA|
-| 12:20-01:10  | Poster Session & Lunch |
-| 01:10-01:40  | **Break** |
-| 01:40-02:20  | **Talk**: TbA|
-| 02:20-03:00  | **Talk**: TbA|
-| 03:00-03:50  | Coffee Break & Poster Session |
-| 03:50-04:30  | **Talk**: TbA|
-| 04:30-05:10  | **Talk**: TbA|
-| 05:10-06:00  | Panel Discussion |
+| 10:30-11:00  | Poster Session 1 & Coffee Break |
+| 11:00-11:40  | **Talk**: Aaron Courville |
+| 11:40-12:20  | **Talk**: Tom Schaul |
+| 12:20-14:00  | Poster Session 2 & Lunch |
+| 14:00-14:40  | **Talk**: Alane Suhr |
+| 14:40-15:20  | **Talk**: Tom Griffiths |
+| 15:20-15:40  | Poster Session 3 & Coffee Break |
+| 15:40-16:20  | **Talk**: Ida Momennejad |
+| 16:20-17:20  | **Panel Discussion** |
 | 06:00-06:10  | Closing Remarks |
 |||
+
+<br>
+
+<br>
