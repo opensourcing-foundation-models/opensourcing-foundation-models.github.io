@@ -21,7 +21,7 @@ nav_order: 3
 | 14:00-14:40  | **Talk** by **Alane Suhr**: The Cooperative Testing Initiative |
 | 14:40-15:20  | **Talk** by **Tom Griffiths**: Understanding the Behavior of Large Language Models using Tasks from Cognitive Science |
 | 15:20-15:40  | Poster Session 3 & Coffee Break |
-| 15:40-16:20  | **Talk**: Ida Momennejad |
+| 15:40-16:20  | **Talk**: Sam Devlin |
 | 16:20-17:20  | **Panel Discussion** |
 | 06:00-06:10  | Closing Remarks |
 |||

@@ -69,11 +69,6 @@ This workshop invites an exploration of Language Gamification through a diverse 
             <br>University of California, Berkeley<br>Talk at 14:00pm</p>
         </div>
         <div class="sponsor">
-            <img src="/assets/img/speakers/ida.png" alt="Ida">
-            <p><a href="https://www.momen-nejad.org/">Ida Momennejad</a>
-            <br>Microsoft Research NYC<br>Talk at 15:40pm</p>
-        </div>
-        <div class="sponsor">
             <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Marxc">
             <p><a href="https://mlanctot.info/">Marc Lanctot</a>
             <br>Google DeepMind<br>Talk at 09:10am</p>
@@ -82,6 +77,11 @@ This workshop invites an exploration of Language Gamification through a diverse 
             <img src="/assets/img/speakers/nouha_dziri.jpg" alt="Nouha">
             <p><a href="https://nouhadziri.github.io/">Nouha Dziri</a>
             <br>Allen Institute for AI (AI2)<br>Talk at 08:30am</p>
+        </div>
+        <div class="sponsor">
+            <img src="/assets/img/speakers/sam_devlin.jpg" alt="Sam">
+            <p><a href="https://www.microsoft.com/en-us/research/people/sadevlin/">Sam Devlin</a>
+            <br>Microsoft Research<br>Talk at 15:40pm</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/tom_griffiths.jpg" alt="TomG">
