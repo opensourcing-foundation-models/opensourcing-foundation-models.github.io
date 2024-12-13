@@ -11,7 +11,7 @@ nav_order: 3
 <br>
 
 | 08:20-08:30  | Opening Remarks |
-| 08:30-09:10  | **Talk**: Nouha Dziri |
+| 08:30-09:10  | **Talk** by **Nouha Dziri**: In-Context Learning in LLMs: Potential and Limits |
 | 09:10-09:50  | **Talk** by **Marc Lanctot**: [Mastering Board Games by External and Internal Planning with Language Models](https://deepmind.google/research/publications/139455/) |
 | 10:00-10:30  | **Spotlight Talks** |
 | 10:30-11:00  | Poster Session 1 & Coffee Break |
