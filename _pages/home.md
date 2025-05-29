@@ -59,7 +59,7 @@ This workshop aims to create a venue for the entire open-source community to get
         <p><a href="https://www.linkedin.com/in/AndyZijianZhang/">Zijian Zhang</a><br>Tsinghua University & NVIDIA</p>
     </div>
     <div class="team-member">
-        <img src="/assets/img/organizers/jiaxuan_gao.png" alt="Jiaxuan Gao">
+        <img src="/assets/img/organizers/jiaxuan_gao.jpg" alt="Jiaxuan Gao">
         <p><a href="https://scholar.google.com/citations?user=UHSwL-wAAAAJ">Jiaxuan Gao</a><br>Tsinghua University & Ant Research</p>
     </div>
     <div class="team-member">
