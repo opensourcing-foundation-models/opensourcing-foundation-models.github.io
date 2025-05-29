@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h2 align="center">Language Gamification Workshop 2024</h2>
+title: <h2 align="center">Open-Sourcing Foundation Models Workshop 2025</h2>
 nav_order: 1
 ---
 
@@ -25,22 +25,14 @@ nav_order: 1
 
 <!-- <br> -->
 
-### What is "Language Gamification"?
+### Abstract
 
-Ludwig Wittgenstein, in his seminal work "Philosophical Investigations", introduced the concept of "language games."
-This framework views language as an adaptive system where words acquire meaning through use, emphasizing its social and interactive nature.
-Research in cognitive science reinforces this notion, highlighting that genuine language acquisition thrives on dynamic and context-driven interactions.
-Language emergence simulations further demonstrate the critical role of language transmission within a population of agents in shaping modern languages.
-Game theory experiments showcase the superiority of interactive self-play loops compared to traditional imitation-based models.
-Meanwhile, the core training paradigm in language processing remains purely based on supervised and preference losses and has barely changed over the past years.
-Besides, some limitations in LLMs, e.g., restricted planning abilities and insufficient personalization, suggest a potential deficiency in their training: the lack of interaction. 
-
-Inspired by these observations, our workshop explores the concept of Language Gamification to enable interactive LLM finetuning at scale.
-This training paradigm encompasses interactive training or evaluation loops that enable LLMs to bootstrap and ground their language through multi-agent interactions.
+The open-sourcing paradigm for LLMs is largely shifting from only open-sourcing the final models to a more complete training recipe that allows everyone to reproduce the LLMs' training process, covering dataset preparation, training infrastructures, algorithm innovations, and evaluation.
+This workshop aims to create a venue for the entire open-source community to get together to share recent achievements and collaborate for future open-source advances. It can also be a great chance for the NeurIPS community to participate and build upon the open-source ecosystem for research advances. The organizers will make their best efforts to link leading contributors from the US, China, and Europe for a global event.
 
 <br>
 
-### Topics
+<!-- ### Topics
 
 This workshop invites an exploration of Language Gamification through a diverse set of methodological perspectives and research backgrounds, offering a series of presentations and unique panel discussions, including:
 
@@ -50,15 +42,15 @@ This workshop invites an exploration of Language Gamification through a diverse 
 - **Language Emergence:** Uncovering insights into how humans naturally engage in language games and employing Deep Learning tools to model this process.
 - **Deep Reinforcement Learning:** Showcasing RL approaches that leverage language games to foster planning and reasoning abilities.
 - **Modern NLP:** Recent works promoting self-improvement approaches for LLMs.
-- **Embodiment:** Investigating the role of language gamification in the development of embodied agents.
+- **Embodiment:** Investigating the role of language gamification in the development of embodied agents. -->
 
 <br>
 
-### :sparkles: Keynote Speakers
+### :sparkles: Invited Speakers
 
 <html>
     <div class="team-container">
-        <div class="sponsor">
+        <!-- <div class="sponsor">
             <img src="/assets/img/speakers/aaron_courville.jpeg" alt="Aaron">
             <p><a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a>
             <br>Université de Montréal<br>Talk at 11:00am</p>
@@ -92,7 +84,7 @@ This workshop invites an exploration of Language Gamification through a diverse 
             <img src="/assets/img/speakers/tom_schaul.jpg" alt="TomS">
             <p><a href="https://schaul.site44.com/">Tom Schaul</a>
             <br>Google DeepMind<br>Talk at 11:40am</p>
-        </div>
+        </div> -->
     </div>
 </html>
 
@@ -120,38 +112,18 @@ This workshop invites an exploration of Language Gamification through a diverse 
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/shangmin_guo.jpg" alt="Name 1">
-            <p><a href="https://www.linkedin.com/in/guoshangmin/">Shangmin Guo</a>
-            <br>University of Edinburgh</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/yi_ren.jpg" alt="Name 2">
-            <p><a href="https://joshua-ren.github.io/">Yi Ren</a>
-            <br>University of British Columbia</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/elle_michelle_yang.jpg" alt="Name 6">
-            <p><a href="https://elleismatic.com/">Elle Michelle Yang</a>
-            <br>University of Oxford</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/mathieu_rita.jpg" alt="Name 3">
-            <p><a href="https://mathieurita.github.io/">Mathieu Rita</a>
-            <br>Meta</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/florian_strub.jpeg" alt="Name 4">
-            <p><a href="https://www.linkedin.com/in/florian-strub-64443527/">Florian Strub</a>
-            <br>Cohere</p>
+            <img src="/assets/img/organizers/yi_wu.png" alt="Yi Wu's photo">
+            <p><a href="https://jxwuyi.weebly.com/">Yi Wu</a>
+            <br>Tsinghua University & Ant Research</p>
         </div>
     </div>
 </html>
 
-### Scientific Committee
+### Program Committee
 
 <html>
     <div class="team-container">
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/organizers/olivier_pietquin.jpg" alt="Name 9">
             <p><a href="https://www.linkedin.com/in/opietquin/">Olivier Pietquin</a>
             <br>Cohere</p>
@@ -160,7 +132,7 @@ This workshop invites an exploration of Language Gamification through a diverse 
             <img src="/assets/img/organizers/kenny_smith.jpeg" alt="Name 9">
             <p><a href="http://www.lel.ed.ac.uk/~kenny/">Kenny Smith</a>
             <br>University of Edinburgh</p>
-        </div>
+        </div> -->
     </div>
 </html>
 
